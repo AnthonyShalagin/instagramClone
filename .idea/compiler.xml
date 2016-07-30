@@ -12,6 +12,10 @@
       <entry name="!?*.flex" />
       <entry name="!?*.kt" />
       <entry name="!?*.clj" />
+<<<<<<< HEAD
+=======
+      <entry name="!?*.aj" />
+>>>>>>> 898aae3c76e604b839a802dd57de2bdc112f926f
     </wildcardResourcePatterns>
     <annotationProcessing>
       <profile default="true" name="Default" enabled="false">
@@ -19,4 +23,9 @@
       </profile>
     </annotationProcessing>
   </component>
+<<<<<<< HEAD
 </project>
+=======
+</project>
+
+>>>>>>> 898aae3c76e604b839a802dd57de2bdc112f926f

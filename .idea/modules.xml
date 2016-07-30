@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/instagramClone.iml" filepath="$PROJECT_DIR$/.idea/instagramClone.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Parse-Starter-Project-1.13.0.iml" filepath="$PROJECT_DIR$/Parse-Starter-Project-1.13.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParseStarterProject/ParseStarterProject.iml" filepath="$PROJECT_DIR$/ParseStarterProject/ParseStarterProject.iml" />
+>>>>>>> 898aae3c76e604b839a802dd57de2bdc112f926f
     </modules>
   </component>
 </project>
