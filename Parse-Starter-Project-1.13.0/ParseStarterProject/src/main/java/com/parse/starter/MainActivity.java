@@ -10,20 +10,57 @@ package com.parse.starter;
 
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.parse.FindCallback;
+import com.parse.GetCallback;
+import com.parse.Parse;
 import com.parse.ParseAnalytics;
+import com.parse.ParseException;
+import com.parse.ParseObject;
+import com.parse.ParseQuery;
+import com.parse.SaveCallback;
+
+import java.util.List;
 
 
-public class MainActivity extends ActionBarActivity {
+public class MainActivity extends AppCompatActivity {
 
   @Override
   protected void onCreate(Bundle savedInstanceState) {
-    super.onCreate(savedInstanceState);
-    setContentView(R.layout.activity_main);
+     super.onCreate(savedInstanceState);
+     setContentView(R.layout.activity_main);
 
-    ParseAnalytics.trackAppOpenedInBackground(getIntent());
+
+      ParseQuery<ParseObject> query = ParseQuery.getQuery("Score");
+      query.whereEqualTo("username","anthony");
+      query.setLimit(1);
+
+
+      query.findInBackground(new FindCallback<ParseObject>() {
+          @Override
+          public void done(List<ParseObject> objects, ParseException e) {
+
+              if (e == null) {
+
+                  if (objects.size() > 0 ) {
+                      objects.get(0).put("score", -500);
+                      objects.get(0).saveInBackground();
+                  }
+
+
+
+              }
+
+          }
+      });
+
+
+
+      ParseAnalytics.trackAppOpenedInBackground(getIntent());
   }
 
   @Override

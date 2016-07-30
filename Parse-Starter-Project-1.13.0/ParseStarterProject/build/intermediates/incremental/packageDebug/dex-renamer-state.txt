@@ -1,7 +1,7 @@
-#Sun Jul 24 14:46:03 EDT 2016
-base.0=/Users/anthonyshalagin/Desktop/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1786f5f4aeee187d124e246e396786d8a4d0092d
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/anthonyshalagin/Desktop/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ab7d2f18709adf87cb6b635404ba1df069973b37/classes.dex
-base.1=/Users/anthonyshalagin/Desktop/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ab7d2f18709adf87cb6b635404ba1df069973b37
-file.0=/Users/anthonyshalagin/Desktop/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1786f5f4aeee187d124e246e396786d8a4d0092d/classes.dex
+#Fri Jul 29 22:39:28 EDT 2016
+base.0=/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8e1cead51f5c02181acded65e604ebd3dba1715e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_968c65be7f17a37c77360e1c5c9854ffd53b5aac/classes.dex
+base.1=/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_968c65be7f17a37c77360e1c5c9854ffd53b5aac
+file.0=/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8e1cead51f5c02181acded65e604ebd3dba1715e/classes.dex
