@@ -4,37 +4,42 @@
     api-level="23"
     density="xxxhdpi"
     format="8"
-    timestamp="56589778311798"
+    timestamp="70453472899832"
     token="-3954062518663118886"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="CLASS_ADDED" >
 
     <task
         name="javac"
-        duration="200" />
+        duration="548" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="17" />
+        duration="34" />
     <task
         name="verifier"
-        duration="3" />
+        duration="6" />
 
     <artifact
         location="/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
         type="DEX" />
 
     <build
-        timestamp="56520522273891"
+        timestamp="68191373322681"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
             type="MAIN" />
     </build>
+    <build timestamp="68557087592952" >
+        <artifact
+            location="/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
     <build
-        timestamp="56589778311798"
-        verifier="COLD_SWAP_REQUESTED" >
+        timestamp="70453472899832"
+        verifier="CLASS_ADDED" >
         <artifact
             location="/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
             type="DEX" />

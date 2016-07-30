@@ -14,6 +14,11 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.TextView;
+import android.widget.Toast;
 
 import com.parse.FindCallback;
 import com.parse.GetCallback;
@@ -30,12 +35,87 @@ import com.parse.SignUpCallback;
 import java.util.List;
 
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements View.OnClickListener{
+
+    EditText usernameField;
+    EditText passwordField;
+	TextView changeSignUpModeTextView;
+	Button signUpButton;
+
+	Boolean signUpModeActive;
+
+	@Override
+	public void onClick(View view) {	//Called whenever an onClickListener is called
+
+		if(view.getId() == R.id.changeSignUpMode) {	//Check when the changeSignUpMode button was clicked
+
+			if( signUpModeActive == true) {	// Sign up mode to login mode
+
+				signUpModeActive = false;
+				changeSignUpModeTextView.setText("Sign Up");
+				signUpButton.setText("Login");
+
+			} else {						//Login mode to sign up mode
+				signUpModeActive = true;
+				changeSignUpModeTextView.setText("Login");
+				signUpButton.setText("Sign Up");
+			}
+		}
+
+	}
+
+    public void signUpOrLogin(View view) {
+
+		if (signUpModeActive == true) {
+
+
+			ParseUser user = new ParseUser();
+			user.setUsername(String.valueOf(usernameField.getText()));
+			user.setPassword(String.valueOf(passwordField.getText()));
+
+			user.signUpInBackground(new SignUpCallback() {
+				@Override
+				public void done(ParseException e) {
+					if (e == null) {
+						Log.i("AppInfo", "The sign up was sucessful");
+					} else {
+						//Error message handling, get substring after java.util.*
+						Toast.makeText(getApplicationContext(), e.getMessage().substring(e.getMessage().indexOf(" ")), Toast.LENGTH_LONG).show();
+
+					}
+				}
+			});
+		}
+			else {
+					ParseUser.logInInBackground(String.valueOf(usernameField.getText()), String.valueOf(passwordField.getText()), new LogInCallback() {
+						@Override
+						public void done(ParseUser user, ParseException e) {
+							if (user != null) {
+								Log.i("AppInfo", "THE LOGIN WAS SUCCESSFUL");
+							} else {
+								Toast.makeText(getApplicationContext(), e.getMessage().substring(e.getMessage().indexOf(" ")), Toast.LENGTH_LONG).show();
+							}
+						}
+					});
+			}
+    }
+
 
   @Override
   protected void onCreate(Bundle savedInstanceState) {
      super.onCreate(savedInstanceState);
      setContentView(R.layout.activity_main);
+
+	  signUpModeActive = true;
+
+
+
+	  usernameField = (EditText) findViewById(R.id.username);
+	  passwordField = (EditText) findViewById(R.id.password);
+	  changeSignUpModeTextView = (TextView) findViewById(R.id.changeSignUpMode);
+	  signUpButton = (Button) findViewById(R.id.signUpButton);
+
+	  changeSignUpModeTextView.setOnClickListener(this);
 
       /*
       ParseUser user = new ParseUser();
@@ -106,4 +186,6 @@ public class MainActivity extends AppCompatActivity {
 
     return super.onOptionsItemSelected(item);
   }
+
+
 }

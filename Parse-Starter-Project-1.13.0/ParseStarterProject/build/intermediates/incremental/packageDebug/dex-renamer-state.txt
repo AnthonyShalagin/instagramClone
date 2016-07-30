@@ -1,4 +1,4 @@
-#Sat Jul 30 14:34:11 EDT 2016
+#Sat Jul 30 17:51:00 EDT 2016
 base.0=/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8e1cead51f5c02181acded65e604ebd3dba1715e
 renamed.1=classes.dex
 renamed.0=classes2.dex

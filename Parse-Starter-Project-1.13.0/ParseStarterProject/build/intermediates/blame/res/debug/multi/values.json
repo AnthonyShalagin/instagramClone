@@ -3150,9 +3150,9 @@
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 606,
+                        "startOffset": 595,
                         "endColumn": 52,
-                        "endOffset": 654
+                        "endOffset": 643
                     }
                 }
             },
@@ -3161,8 +3161,8 @@
                     "startLine": 193,
                     "startColumn": 4,
                     "startOffset": 26772,
-                    "endColumn": 58,
-                    "endOffset": 26826
+                    "endColumn": 47,
+                    "endOffset": 26815
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/res/values/strings.xml",
@@ -3170,8 +3170,8 @@
                         "startLine": 13,
                         "startColumn": 4,
                         "startOffset": 493,
-                        "endColumn": 58,
-                        "endOffset": 547
+                        "endColumn": 47,
+                        "endOffset": 536
                     }
                 }
             },
@@ -3179,18 +3179,18 @@
                 "to": {
                     "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 26831,
+                    "startOffset": 26820,
                     "endColumn": 52,
-                    "endOffset": 26879
+                    "endOffset": 26868
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 553,
+                        "startOffset": 542,
                         "endColumn": 52,
-                        "endOffset": 601
+                        "endOffset": 590
                     }
                 }
             },
@@ -3198,9 +3198,9 @@
                 "to": {
                     "startLine": 195,
                     "startColumn": 4,
-                    "startOffset": 26884,
+                    "startOffset": 26873,
                     "endColumn": 60,
-                    "endOffset": 26940
+                    "endOffset": 26929
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/res/values/strings.xml",
@@ -3217,9 +3217,9 @@
                 "to": {
                     "startLine": 196,
                     "startColumn": 4,
-                    "startOffset": 26945,
+                    "startOffset": 26934,
                     "endColumn": 60,
-                    "endOffset": 27001
+                    "endOffset": 26990
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/res/values/strings.xml",
@@ -3236,9 +3236,9 @@
                 "to": {
                     "startLine": 197,
                     "startColumn": 4,
-                    "startOffset": 27006,
+                    "startOffset": 26995,
                     "endColumn": 70,
-                    "endOffset": 27072
+                    "endOffset": 27061
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3255,9 +3255,9 @@
                 "to": {
                     "startLine": 198,
                     "startColumn": 4,
-                    "startOffset": 27077,
+                    "startOffset": 27066,
                     "endColumn": 77,
-                    "endOffset": 27150
+                    "endOffset": 27139
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3274,9 +3274,9 @@
                 "to": {
                     "startLine": 199,
                     "startColumn": 4,
-                    "startOffset": 27155,
+                    "startOffset": 27144,
                     "endColumn": 89,
-                    "endOffset": 27240
+                    "endOffset": 27229
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3293,9 +3293,9 @@
                 "to": {
                     "startLine": 200,
                     "startColumn": 4,
-                    "startOffset": 27245,
+                    "startOffset": 27234,
                     "endColumn": 87,
-                    "endOffset": 27328
+                    "endOffset": 27317
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3312,9 +3312,9 @@
                 "to": {
                     "startLine": 201,
                     "startColumn": 4,
-                    "startOffset": 27333,
+                    "startOffset": 27322,
                     "endColumn": 95,
-                    "endOffset": 27424
+                    "endOffset": 27413
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3331,10 +3331,10 @@
                 "to": {
                     "startLine": 202,
                     "startColumn": 4,
-                    "startOffset": 27429,
+                    "startOffset": 27418,
                     "endLine": 204,
                     "endColumn": 12,
-                    "endOffset": 27554
+                    "endOffset": 27543
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/res/values/styles.xml",
@@ -3352,10 +3352,10 @@
                 "to": {
                     "startLine": 205,
                     "startColumn": 4,
-                    "startOffset": 27559,
+                    "startOffset": 27548,
                     "endLine": 211,
                     "endColumn": 12,
-                    "endOffset": 28055
+                    "endOffset": 28044
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3373,9 +3373,9 @@
                 "to": {
                     "startLine": 212,
                     "startColumn": 4,
-                    "startOffset": 28060,
+                    "startOffset": 28049,
                     "endColumn": 88,
-                    "endOffset": 28144
+                    "endOffset": 28133
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3392,10 +3392,10 @@
                 "to": {
                     "startLine": 213,
                     "startColumn": 4,
-                    "startOffset": 28149,
+                    "startOffset": 28138,
                     "endLine": 216,
                     "endColumn": 12,
-                    "endOffset": 28391
+                    "endOffset": 28380
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3413,10 +3413,10 @@
                 "to": {
                     "startLine": 217,
                     "startColumn": 4,
-                    "startOffset": 28396,
+                    "startOffset": 28385,
                     "endLine": 220,
                     "endColumn": 12,
-                    "endOffset": 28672
+                    "endOffset": 28661
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3434,10 +3434,10 @@
                 "to": {
                     "startLine": 221,
                     "startColumn": 4,
-                    "startOffset": 28677,
+                    "startOffset": 28666,
                     "endLine": 225,
                     "endColumn": 12,
-                    "endOffset": 28957
+                    "endOffset": 28946
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3455,10 +3455,10 @@
                 "to": {
                     "startLine": 226,
                     "startColumn": 4,
-                    "startOffset": 28962,
+                    "startOffset": 28951,
                     "endLine": 231,
                     "endColumn": 12,
-                    "endOffset": 29350
+                    "endOffset": 29339
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3476,10 +3476,10 @@
                 "to": {
                     "startLine": 232,
                     "startColumn": 4,
-                    "startOffset": 29355,
+                    "startOffset": 29344,
                     "endLine": 238,
                     "endColumn": 12,
-                    "endOffset": 29827
+                    "endOffset": 29816
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3497,10 +3497,10 @@
                 "to": {
                     "startLine": 239,
                     "startColumn": 4,
-                    "startOffset": 29832,
+                    "startOffset": 29821,
                     "endLine": 242,
                     "endColumn": 12,
-                    "endOffset": 30049
+                    "endOffset": 30038
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3518,10 +3518,10 @@
                 "to": {
                     "startLine": 243,
                     "startColumn": 4,
-                    "startOffset": 30054,
+                    "startOffset": 30043,
                     "endLine": 246,
                     "endColumn": 12,
-                    "endOffset": 30271
+                    "endOffset": 30260
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3539,10 +3539,10 @@
                 "to": {
                     "startLine": 247,
                     "startColumn": 4,
-                    "startOffset": 30276,
+                    "startOffset": 30265,
                     "endLine": 251,
                     "endColumn": 12,
-                    "endOffset": 30539
+                    "endOffset": 30528
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3560,10 +3560,10 @@
                 "to": {
                     "startLine": 252,
                     "startColumn": 4,
-                    "startOffset": 30544,
+                    "startOffset": 30533,
                     "endLine": 255,
                     "endColumn": 12,
-                    "endOffset": 30766
+                    "endOffset": 30755
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3581,10 +3581,10 @@
                 "to": {
                     "startLine": 256,
                     "startColumn": 4,
-                    "startOffset": 30771,
+                    "startOffset": 30760,
                     "endLine": 259,
                     "endColumn": 12,
-                    "endOffset": 30996
+                    "endOffset": 30985
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3602,10 +3602,10 @@
                 "to": {
                     "startLine": 260,
                     "startColumn": 4,
-                    "startOffset": 31001,
+                    "startOffset": 30990,
                     "endLine": 263,
                     "endColumn": 12,
-                    "endOffset": 31226
+                    "endOffset": 31215
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3623,10 +3623,10 @@
                 "to": {
                     "startLine": 264,
                     "startColumn": 4,
-                    "startOffset": 31231,
+                    "startOffset": 31220,
                     "endLine": 267,
                     "endColumn": 12,
-                    "endOffset": 31456
+                    "endOffset": 31445
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3644,10 +3644,10 @@
                 "to": {
                     "startLine": 268,
                     "startColumn": 4,
-                    "startOffset": 31461,
+                    "startOffset": 31450,
                     "endLine": 271,
                     "endColumn": 12,
-                    "endOffset": 31686
+                    "endOffset": 31675
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3665,10 +3665,10 @@
                 "to": {
                     "startLine": 272,
                     "startColumn": 4,
-                    "startOffset": 31691,
+                    "startOffset": 31680,
                     "endLine": 275,
                     "endColumn": 12,
-                    "endOffset": 31913
+                    "endOffset": 31902
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3686,10 +3686,10 @@
                 "to": {
                     "startLine": 276,
                     "startColumn": 4,
-                    "startOffset": 31918,
+                    "startOffset": 31907,
                     "endLine": 279,
                     "endColumn": 12,
-                    "endOffset": 32152
+                    "endOffset": 32141
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3707,10 +3707,10 @@
                 "to": {
                     "startLine": 280,
                     "startColumn": 4,
-                    "startOffset": 32157,
+                    "startOffset": 32146,
                     "endLine": 283,
                     "endColumn": 12,
-                    "endOffset": 32378
+                    "endOffset": 32367
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3728,10 +3728,10 @@
                 "to": {
                     "startLine": 284,
                     "startColumn": 4,
-                    "startOffset": 32383,
+                    "startOffset": 32372,
                     "endLine": 287,
                     "endColumn": 12,
-                    "endOffset": 32623
+                    "endOffset": 32612
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3749,10 +3749,10 @@
                 "to": {
                     "startLine": 288,
                     "startColumn": 4,
-                    "startOffset": 32628,
+                    "startOffset": 32617,
                     "endLine": 289,
                     "endColumn": 12,
-                    "endOffset": 32753
+                    "endOffset": 32742
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3770,10 +3770,10 @@
                 "to": {
                     "startLine": 290,
                     "startColumn": 4,
-                    "startOffset": 32758,
+                    "startOffset": 32747,
                     "endLine": 291,
                     "endColumn": 12,
-                    "endOffset": 32883
+                    "endOffset": 32872
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3791,10 +3791,10 @@
                 "to": {
                     "startLine": 292,
                     "startColumn": 4,
-                    "startOffset": 32888,
+                    "startOffset": 32877,
                     "endLine": 295,
                     "endColumn": 12,
-                    "endOffset": 33113
+                    "endOffset": 33102
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3812,10 +3812,10 @@
                 "to": {
                     "startLine": 296,
                     "startColumn": 4,
-                    "startOffset": 33118,
+                    "startOffset": 33107,
                     "endLine": 299,
                     "endColumn": 12,
-                    "endOffset": 33361
+                    "endOffset": 33350
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3833,10 +3833,10 @@
                 "to": {
                     "startLine": 300,
                     "startColumn": 4,
-                    "startOffset": 33366,
+                    "startOffset": 33355,
                     "endLine": 303,
                     "endColumn": 12,
-                    "endOffset": 33580
+                    "endOffset": 33569
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3854,10 +3854,10 @@
                 "to": {
                     "startLine": 304,
                     "startColumn": 4,
-                    "startOffset": 33585,
+                    "startOffset": 33574,
                     "endLine": 308,
                     "endColumn": 12,
-                    "endOffset": 33863
+                    "endOffset": 33852
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3875,10 +3875,10 @@
                 "to": {
                     "startLine": 309,
                     "startColumn": 4,
-                    "startOffset": 33868,
+                    "startOffset": 33857,
                     "endLine": 312,
                     "endColumn": 12,
-                    "endOffset": 34071
+                    "endOffset": 34060
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3896,10 +3896,10 @@
                 "to": {
                     "startLine": 313,
                     "startColumn": 4,
-                    "startOffset": 34076,
+                    "startOffset": 34065,
                     "endLine": 315,
                     "endColumn": 12,
-                    "endOffset": 34202
+                    "endOffset": 34191
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3917,10 +3917,10 @@
                 "to": {
                     "startLine": 316,
                     "startColumn": 4,
-                    "startOffset": 34207,
+                    "startOffset": 34196,
                     "endLine": 319,
                     "endColumn": 12,
-                    "endOffset": 34429
+                    "endOffset": 34418
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3938,10 +3938,10 @@
                 "to": {
                     "startLine": 320,
                     "startColumn": 4,
-                    "startOffset": 34434,
+                    "startOffset": 34423,
                     "endLine": 323,
                     "endColumn": 12,
-                    "endOffset": 34675
+                    "endOffset": 34664
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3959,10 +3959,10 @@
                 "to": {
                     "startLine": 324,
                     "startColumn": 4,
-                    "startOffset": 34680,
+                    "startOffset": 34669,
                     "endLine": 327,
                     "endColumn": 12,
-                    "endOffset": 34900
+                    "endOffset": 34889
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -3980,10 +3980,10 @@
                 "to": {
                     "startLine": 328,
                     "startColumn": 4,
-                    "startOffset": 34905,
+                    "startOffset": 34894,
                     "endLine": 331,
                     "endColumn": 12,
-                    "endOffset": 35149
+                    "endOffset": 35138
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4001,10 +4001,10 @@
                 "to": {
                     "startLine": 332,
                     "startColumn": 4,
-                    "startOffset": 35154,
+                    "startOffset": 35143,
                     "endLine": 335,
                     "endColumn": 12,
-                    "endOffset": 35370
+                    "endOffset": 35359
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4022,10 +4022,10 @@
                 "to": {
                     "startLine": 336,
                     "startColumn": 4,
-                    "startOffset": 35375,
+                    "startOffset": 35364,
                     "endLine": 339,
                     "endColumn": 12,
-                    "endOffset": 35615
+                    "endOffset": 35604
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4043,10 +4043,10 @@
                 "to": {
                     "startLine": 340,
                     "startColumn": 4,
-                    "startOffset": 35620,
+                    "startOffset": 35609,
                     "endLine": 344,
                     "endColumn": 12,
-                    "endOffset": 35910
+                    "endOffset": 35899
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4064,10 +4064,10 @@
                 "to": {
                     "startLine": 345,
                     "startColumn": 4,
-                    "startOffset": 35915,
+                    "startOffset": 35904,
                     "endLine": 347,
                     "endColumn": 12,
-                    "endOffset": 36132
+                    "endOffset": 36121
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4085,10 +4085,10 @@
                 "to": {
                     "startLine": 348,
                     "startColumn": 4,
-                    "startOffset": 36137,
+                    "startOffset": 36126,
                     "endLine": 350,
                     "endColumn": 12,
-                    "endOffset": 36370
+                    "endOffset": 36359
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4106,10 +4106,10 @@
                 "to": {
                     "startLine": 351,
                     "startColumn": 4,
-                    "startOffset": 36375,
+                    "startOffset": 36364,
                     "endLine": 353,
                     "endColumn": 12,
-                    "endOffset": 36584
+                    "endOffset": 36573
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4127,10 +4127,10 @@
                 "to": {
                     "startLine": 354,
                     "startColumn": 4,
-                    "startOffset": 36589,
+                    "startOffset": 36578,
                     "endLine": 356,
                     "endColumn": 12,
-                    "endOffset": 36814
+                    "endOffset": 36803
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4148,10 +4148,10 @@
                 "to": {
                     "startLine": 357,
                     "startColumn": 4,
-                    "startOffset": 36819,
+                    "startOffset": 36808,
                     "endLine": 359,
                     "endColumn": 12,
-                    "endOffset": 37037
+                    "endOffset": 37026
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4169,10 +4169,10 @@
                 "to": {
                     "startLine": 360,
                     "startColumn": 4,
-                    "startOffset": 37042,
+                    "startOffset": 37031,
                     "endLine": 362,
                     "endColumn": 12,
-                    "endOffset": 37252
+                    "endOffset": 37241
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4190,10 +4190,10 @@
                 "to": {
                     "startLine": 363,
                     "startColumn": 4,
-                    "startOffset": 37257,
+                    "startOffset": 37246,
                     "endLine": 365,
                     "endColumn": 12,
-                    "endOffset": 37460
+                    "endOffset": 37449
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4211,10 +4211,10 @@
                 "to": {
                     "startLine": 366,
                     "startColumn": 4,
-                    "startOffset": 37465,
+                    "startOffset": 37454,
                     "endLine": 367,
                     "endColumn": 12,
-                    "endOffset": 37584
+                    "endOffset": 37573
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4232,10 +4232,10 @@
                 "to": {
                     "startLine": 368,
                     "startColumn": 4,
-                    "startOffset": 37589,
+                    "startOffset": 37578,
                     "endLine": 369,
                     "endColumn": 12,
-                    "endOffset": 37708
+                    "endOffset": 37697
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4253,9 +4253,9 @@
                 "to": {
                     "startLine": 370,
                     "startColumn": 4,
-                    "startOffset": 37713,
+                    "startOffset": 37702,
                     "endColumn": 104,
-                    "endOffset": 37813
+                    "endOffset": 37802
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4272,9 +4272,9 @@
                 "to": {
                     "startLine": 371,
                     "startColumn": 4,
-                    "startOffset": 37818,
+                    "startOffset": 37807,
                     "endColumn": 116,
-                    "endOffset": 37930
+                    "endOffset": 37919
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4291,10 +4291,10 @@
                 "to": {
                     "startLine": 372,
                     "startColumn": 4,
-                    "startOffset": 37935,
+                    "startOffset": 37924,
                     "endLine": 374,
                     "endColumn": 12,
-                    "endOffset": 38144
+                    "endOffset": 38133
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4312,10 +4312,10 @@
                 "to": {
                     "startLine": 375,
                     "startColumn": 4,
-                    "startOffset": 38149,
+                    "startOffset": 38138,
                     "endLine": 376,
                     "endColumn": 12,
-                    "endOffset": 38290
+                    "endOffset": 38279
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4333,10 +4333,10 @@
                 "to": {
                     "startLine": 377,
                     "startColumn": 4,
-                    "startOffset": 38295,
+                    "startOffset": 38284,
                     "endLine": 378,
                     "endColumn": 12,
-                    "endOffset": 38430
+                    "endOffset": 38419
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4354,10 +4354,10 @@
                 "to": {
                     "startLine": 379,
                     "startColumn": 4,
-                    "startOffset": 38435,
+                    "startOffset": 38424,
                     "endLine": 380,
                     "endColumn": 12,
-                    "endOffset": 38516
+                    "endOffset": 38505
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4375,10 +4375,10 @@
                 "to": {
                     "startLine": 381,
                     "startColumn": 4,
-                    "startOffset": 38521,
+                    "startOffset": 38510,
                     "endLine": 385,
                     "endColumn": 12,
-                    "endOffset": 38864
+                    "endOffset": 38853
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4396,9 +4396,9 @@
                 "to": {
                     "startLine": 386,
                     "startColumn": 4,
-                    "startOffset": 38869,
+                    "startOffset": 38858,
                     "endColumn": 87,
-                    "endOffset": 38952
+                    "endOffset": 38941
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4415,10 +4415,10 @@
                 "to": {
                     "startLine": 387,
                     "startColumn": 4,
-                    "startOffset": 38957,
+                    "startOffset": 38946,
                     "endLine": 390,
                     "endColumn": 12,
-                    "endOffset": 39182
+                    "endOffset": 39171
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4436,10 +4436,10 @@
                 "to": {
                     "startLine": 391,
                     "startColumn": 4,
-                    "startOffset": 39187,
+                    "startOffset": 39176,
                     "endLine": 396,
                     "endColumn": 12,
-                    "endOffset": 39584
+                    "endOffset": 39573
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4457,10 +4457,10 @@
                 "to": {
                     "startLine": 397,
                     "startColumn": 4,
-                    "startOffset": 39589,
+                    "startOffset": 39578,
                     "endLine": 400,
                     "endColumn": 12,
-                    "endOffset": 39817
+                    "endOffset": 39806
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4478,9 +4478,9 @@
                 "to": {
                     "startLine": 401,
                     "startColumn": 4,
-                    "startOffset": 39822,
+                    "startOffset": 39811,
                     "endColumn": 81,
-                    "endOffset": 39899
+                    "endOffset": 39888
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4497,10 +4497,10 @@
                 "to": {
                     "startLine": 402,
                     "startColumn": 4,
-                    "startOffset": 39904,
+                    "startOffset": 39893,
                     "endLine": 403,
                     "endColumn": 12,
-                    "endOffset": 39997
+                    "endOffset": 39986
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4518,10 +4518,10 @@
                 "to": {
                     "startLine": 404,
                     "startColumn": 4,
-                    "startOffset": 40002,
+                    "startOffset": 39991,
                     "endLine": 414,
                     "endColumn": 12,
-                    "endOffset": 40614
+                    "endOffset": 40603
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4539,9 +4539,9 @@
                 "to": {
                     "startLine": 415,
                     "startColumn": 4,
-                    "startOffset": 40619,
+                    "startOffset": 40608,
                     "endColumn": 99,
-                    "endOffset": 40714
+                    "endOffset": 40703
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4558,10 +4558,10 @@
                 "to": {
                     "startLine": 416,
                     "startColumn": 4,
-                    "startOffset": 40719,
+                    "startOffset": 40708,
                     "endLine": 419,
                     "endColumn": 12,
-                    "endOffset": 40950
+                    "endOffset": 40939
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4579,10 +4579,10 @@
                 "to": {
                     "startLine": 420,
                     "startColumn": 4,
-                    "startOffset": 40955,
+                    "startOffset": 40944,
                     "endLine": 425,
                     "endColumn": 12,
-                    "endOffset": 41358
+                    "endOffset": 41347
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4600,10 +4600,10 @@
                 "to": {
                     "startLine": 426,
                     "startColumn": 4,
-                    "startOffset": 41363,
+                    "startOffset": 41352,
                     "endLine": 429,
                     "endColumn": 12,
-                    "endOffset": 41597
+                    "endOffset": 41586
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4621,9 +4621,9 @@
                 "to": {
                     "startLine": 430,
                     "startColumn": 4,
-                    "startOffset": 41602,
+                    "startOffset": 41591,
                     "endColumn": 93,
-                    "endOffset": 41691
+                    "endOffset": 41680
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4640,9 +4640,9 @@
                 "to": {
                     "startLine": 431,
                     "startColumn": 4,
-                    "startOffset": 41696,
+                    "startOffset": 41685,
                     "endColumn": 57,
-                    "endOffset": 41749
+                    "endOffset": 41738
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4659,10 +4659,10 @@
                 "to": {
                     "startLine": 432,
                     "startColumn": 4,
-                    "startOffset": 41754,
+                    "startOffset": 41743,
                     "endLine": 435,
                     "endColumn": 12,
-                    "endOffset": 41986
+                    "endOffset": 41975
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4680,10 +4680,10 @@
                 "to": {
                     "startLine": 436,
                     "startColumn": 4,
-                    "startOffset": 41991,
+                    "startOffset": 41980,
                     "endLine": 462,
                     "endColumn": 12,
-                    "endOffset": 43986
+                    "endOffset": 43975
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4701,10 +4701,10 @@
                 "to": {
                     "startLine": 463,
                     "startColumn": 4,
-                    "startOffset": 43991,
+                    "startOffset": 43980,
                     "endLine": 466,
                     "endColumn": 12,
-                    "endOffset": 44228
+                    "endOffset": 44217
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4722,10 +4722,10 @@
                 "to": {
                     "startLine": 467,
                     "startColumn": 4,
-                    "startOffset": 44233,
+                    "startOffset": 44222,
                     "endLine": 494,
                     "endColumn": 12,
-                    "endOffset": 46406
+                    "endOffset": 46395
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4743,10 +4743,10 @@
                 "to": {
                     "startLine": 495,
                     "startColumn": 4,
-                    "startOffset": 46411,
+                    "startOffset": 46400,
                     "endLine": 640,
                     "endColumn": 12,
-                    "endOffset": 55685
+                    "endOffset": 55674
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4764,10 +4764,10 @@
                 "to": {
                     "startLine": 641,
                     "startColumn": 4,
-                    "startOffset": 55690,
+                    "startOffset": 55679,
                     "endLine": 662,
                     "endColumn": 12,
-                    "endOffset": 56952
+                    "endOffset": 56941
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4785,10 +4785,10 @@
                 "to": {
                     "startLine": 663,
                     "startColumn": 4,
-                    "startOffset": 56957,
+                    "startOffset": 56946,
                     "endLine": 808,
                     "endColumn": 12,
-                    "endOffset": 66341
+                    "endOffset": 66330
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4806,10 +4806,10 @@
                 "to": {
                     "startLine": 809,
                     "startColumn": 4,
-                    "startOffset": 66346,
+                    "startOffset": 66335,
                     "endLine": 830,
                     "endColumn": 12,
-                    "endOffset": 67622
+                    "endOffset": 67611
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4827,10 +4827,10 @@
                 "to": {
                     "startLine": 831,
                     "startColumn": 4,
-                    "startOffset": 67627,
+                    "startOffset": 67616,
                     "endLine": 837,
                     "endColumn": 12,
-                    "endOffset": 68158
+                    "endOffset": 68147
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4848,10 +4848,10 @@
                 "to": {
                     "startLine": 838,
                     "startColumn": 4,
-                    "startOffset": 68163,
+                    "startOffset": 68152,
                     "endLine": 842,
                     "endColumn": 12,
-                    "endOffset": 68488
+                    "endOffset": 68477
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4869,10 +4869,10 @@
                 "to": {
                     "startLine": 843,
                     "startColumn": 4,
-                    "startOffset": 68493,
+                    "startOffset": 68482,
                     "endLine": 863,
                     "endColumn": 12,
-                    "endOffset": 69611
+                    "endOffset": 69600
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4890,10 +4890,10 @@
                 "to": {
                     "startLine": 864,
                     "startColumn": 4,
-                    "startOffset": 69616,
+                    "startOffset": 69605,
                     "endLine": 868,
                     "endColumn": 12,
-                    "endOffset": 69867
+                    "endOffset": 69856
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4911,10 +4911,10 @@
                 "to": {
                     "startLine": 869,
                     "startColumn": 4,
-                    "startOffset": 69872,
+                    "startOffset": 69861,
                     "endLine": 873,
                     "endColumn": 12,
-                    "endOffset": 70103
+                    "endOffset": 70092
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4932,10 +4932,10 @@
                 "to": {
                     "startLine": 874,
                     "startColumn": 4,
-                    "startOffset": 70108,
+                    "startOffset": 70097,
                     "endLine": 883,
                     "endColumn": 12,
-                    "endOffset": 70650
+                    "endOffset": 70639
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4953,10 +4953,10 @@
                 "to": {
                     "startLine": 884,
                     "startColumn": 4,
-                    "startOffset": 70655,
+                    "startOffset": 70644,
                     "endLine": 892,
                     "endColumn": 12,
-                    "endOffset": 71144
+                    "endOffset": 71133
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4974,10 +4974,10 @@
                 "to": {
                     "startLine": 893,
                     "startColumn": 4,
-                    "startOffset": 71149,
+                    "startOffset": 71138,
                     "endLine": 903,
                     "endColumn": 12,
-                    "endOffset": 71817
+                    "endOffset": 71806
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -4995,10 +4995,10 @@
                 "to": {
                     "startLine": 904,
                     "startColumn": 4,
-                    "startOffset": 71822,
+                    "startOffset": 71811,
                     "endLine": 907,
                     "endColumn": 12,
-                    "endOffset": 72032
+                    "endOffset": 72021
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5016,10 +5016,10 @@
                 "to": {
                     "startLine": 908,
                     "startColumn": 4,
-                    "startOffset": 72037,
+                    "startOffset": 72026,
                     "endLine": 914,
                     "endColumn": 12,
-                    "endOffset": 72560
+                    "endOffset": 72549
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5037,10 +5037,10 @@
                 "to": {
                     "startLine": 915,
                     "startColumn": 4,
-                    "startOffset": 72565,
+                    "startOffset": 72554,
                     "endLine": 922,
                     "endColumn": 12,
-                    "endOffset": 73124
+                    "endOffset": 73113
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5058,10 +5058,10 @@
                 "to": {
                     "startLine": 923,
                     "startColumn": 4,
-                    "startOffset": 73129,
+                    "startOffset": 73118,
                     "endLine": 929,
                     "endColumn": 12,
-                    "endOffset": 73499
+                    "endOffset": 73488
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5079,9 +5079,9 @@
                 "to": {
                     "startLine": 930,
                     "startColumn": 4,
-                    "startOffset": 73504,
+                    "startOffset": 73493,
                     "endColumn": 117,
-                    "endOffset": 73617
+                    "endOffset": 73606
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5098,10 +5098,10 @@
                 "to": {
                     "startLine": 931,
                     "startColumn": 4,
-                    "startOffset": 73622,
+                    "startOffset": 73611,
                     "endLine": 939,
                     "endColumn": 12,
-                    "endOffset": 74155
+                    "endOffset": 74144
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5119,10 +5119,10 @@
                 "to": {
                     "startLine": 940,
                     "startColumn": 4,
-                    "startOffset": 74160,
+                    "startOffset": 74149,
                     "endLine": 942,
                     "endColumn": 12,
-                    "endOffset": 74312
+                    "endOffset": 74301
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5140,10 +5140,10 @@
                 "to": {
                     "startLine": 943,
                     "startColumn": 4,
-                    "startOffset": 74317,
+                    "startOffset": 74306,
                     "endLine": 945,
                     "endColumn": 12,
-                    "endOffset": 74456
+                    "endOffset": 74445
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5161,10 +5161,10 @@
                 "to": {
                     "startLine": 946,
                     "startColumn": 4,
-                    "startOffset": 74461,
+                    "startOffset": 74450,
                     "endLine": 950,
                     "endColumn": 12,
-                    "endOffset": 74776
+                    "endOffset": 74765
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5182,10 +5182,10 @@
                 "to": {
                     "startLine": 951,
                     "startColumn": 4,
-                    "startOffset": 74781,
+                    "startOffset": 74770,
                     "endLine": 954,
                     "endColumn": 12,
-                    "endOffset": 74946
+                    "endOffset": 74935
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5203,10 +5203,10 @@
                 "to": {
                     "startLine": 955,
                     "startColumn": 4,
-                    "startOffset": 74951,
+                    "startOffset": 74940,
                     "endLine": 957,
                     "endColumn": 12,
-                    "endOffset": 75087
+                    "endOffset": 75076
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5224,10 +5224,10 @@
                 "to": {
                     "startLine": 958,
                     "startColumn": 4,
-                    "startOffset": 75092,
+                    "startOffset": 75081,
                     "endLine": 960,
                     "endColumn": 12,
-                    "endOffset": 75216
+                    "endOffset": 75205
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5245,10 +5245,10 @@
                 "to": {
                     "startLine": 961,
                     "startColumn": 4,
-                    "startOffset": 75221,
+                    "startOffset": 75210,
                     "endLine": 964,
                     "endColumn": 12,
-                    "endOffset": 75515
+                    "endOffset": 75504
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5266,10 +5266,10 @@
                 "to": {
                     "startLine": 965,
                     "startColumn": 4,
-                    "startOffset": 75520,
+                    "startOffset": 75509,
                     "endLine": 968,
                     "endColumn": 12,
-                    "endOffset": 75818
+                    "endOffset": 75807
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5287,10 +5287,10 @@
                 "to": {
                     "startLine": 969,
                     "startColumn": 4,
-                    "startOffset": 75823,
+                    "startOffset": 75812,
                     "endLine": 976,
                     "endColumn": 12,
-                    "endOffset": 76377
+                    "endOffset": 76366
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5308,10 +5308,10 @@
                 "to": {
                     "startLine": 977,
                     "startColumn": 4,
-                    "startOffset": 76382,
+                    "startOffset": 76371,
                     "endLine": 981,
                     "endColumn": 12,
-                    "endOffset": 76639
+                    "endOffset": 76628
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5329,10 +5329,10 @@
                 "to": {
                     "startLine": 982,
                     "startColumn": 4,
-                    "startOffset": 76644,
+                    "startOffset": 76633,
                     "endLine": 988,
                     "endColumn": 12,
-                    "endOffset": 76989
+                    "endOffset": 76978
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5350,10 +5350,10 @@
                 "to": {
                     "startLine": 989,
                     "startColumn": 4,
-                    "startOffset": 76994,
+                    "startOffset": 76983,
                     "endLine": 994,
                     "endColumn": 12,
-                    "endOffset": 77342
+                    "endOffset": 77331
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5371,9 +5371,9 @@
                 "to": {
                     "startLine": 995,
                     "startColumn": 4,
-                    "startOffset": 77347,
+                    "startOffset": 77336,
                     "endColumn": 93,
-                    "endOffset": 77436
+                    "endOffset": 77425
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5390,10 +5390,10 @@
                 "to": {
                     "startLine": 996,
                     "startColumn": 4,
-                    "startOffset": 77441,
+                    "startOffset": 77430,
                     "endLine": 999,
                     "endColumn": 12,
-                    "endOffset": 77742
+                    "endOffset": 77731
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5411,10 +5411,10 @@
                 "to": {
                     "startLine": 1000,
                     "startColumn": 4,
-                    "startOffset": 77747,
+                    "startOffset": 77736,
                     "endLine": 1004,
                     "endColumn": 12,
-                    "endOffset": 78004
+                    "endOffset": 77993
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5432,10 +5432,10 @@
                 "to": {
                     "startLine": 1005,
                     "startColumn": 4,
-                    "startOffset": 78009,
+                    "startOffset": 77998,
                     "endLine": 1006,
                     "endColumn": 12,
-                    "endOffset": 78129
+                    "endOffset": 78118
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5453,10 +5453,10 @@
                 "to": {
                     "startLine": 1007,
                     "startColumn": 4,
-                    "startOffset": 78134,
+                    "startOffset": 78123,
                     "endLine": 1008,
                     "endColumn": 12,
-                    "endOffset": 78256
+                    "endOffset": 78245
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5474,10 +5474,10 @@
                 "to": {
                     "startLine": 1009,
                     "startColumn": 4,
-                    "startOffset": 78261,
+                    "startOffset": 78250,
                     "endLine": 1011,
                     "endColumn": 12,
-                    "endOffset": 78495
+                    "endOffset": 78484
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5495,10 +5495,10 @@
                 "to": {
                     "startLine": 1012,
                     "startColumn": 4,
-                    "startOffset": 78500,
+                    "startOffset": 78489,
                     "endLine": 1014,
                     "endColumn": 12,
-                    "endOffset": 78706
+                    "endOffset": 78695
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5516,10 +5516,10 @@
                 "to": {
                     "startLine": 1015,
                     "startColumn": 4,
-                    "startOffset": 78711,
+                    "startOffset": 78700,
                     "endLine": 1016,
                     "endColumn": 12,
-                    "endOffset": 78825
+                    "endOffset": 78814
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5537,10 +5537,10 @@
                 "to": {
                     "startLine": 1017,
                     "startColumn": 4,
-                    "startOffset": 78830,
+                    "startOffset": 78819,
                     "endLine": 1020,
                     "endColumn": 12,
-                    "endOffset": 79018
+                    "endOffset": 79007
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5558,10 +5558,10 @@
                 "to": {
                     "startLine": 1021,
                     "startColumn": 4,
-                    "startOffset": 79023,
+                    "startOffset": 79012,
                     "endLine": 1027,
                     "endColumn": 12,
-                    "endOffset": 79473
+                    "endOffset": 79462
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5579,10 +5579,10 @@
                 "to": {
                     "startLine": 1028,
                     "startColumn": 4,
-                    "startOffset": 79478,
+                    "startOffset": 79467,
                     "endLine": 1030,
                     "endColumn": 12,
-                    "endOffset": 79654
+                    "endOffset": 79643
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5600,10 +5600,10 @@
                 "to": {
                     "startLine": 1031,
                     "startColumn": 4,
-                    "startOffset": 79659,
+                    "startOffset": 79648,
                     "endLine": 1033,
                     "endColumn": 12,
-                    "endOffset": 79776
+                    "endOffset": 79765
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5621,10 +5621,10 @@
                 "to": {
                     "startLine": 1034,
                     "startColumn": 4,
-                    "startOffset": 79781,
+                    "startOffset": 79770,
                     "endLine": 1037,
                     "endColumn": 12,
-                    "endOffset": 80035
+                    "endOffset": 80024
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5642,10 +5642,10 @@
                 "to": {
                     "startLine": 1038,
                     "startColumn": 4,
-                    "startOffset": 80040,
+                    "startOffset": 80029,
                     "endLine": 1039,
                     "endColumn": 12,
-                    "endOffset": 80148
+                    "endOffset": 80137
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5663,10 +5663,10 @@
                 "to": {
                     "startLine": 1040,
                     "startColumn": 4,
-                    "startOffset": 80153,
+                    "startOffset": 80142,
                     "endLine": 1043,
                     "endColumn": 12,
-                    "endOffset": 80335
+                    "endOffset": 80324
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5684,10 +5684,10 @@
                 "to": {
                     "startLine": 1044,
                     "startColumn": 4,
-                    "startOffset": 80340,
+                    "startOffset": 80329,
                     "endLine": 1045,
                     "endColumn": 12,
-                    "endOffset": 80437
+                    "endOffset": 80426
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5705,10 +5705,10 @@
                 "to": {
                     "startLine": 1046,
                     "startColumn": 4,
-                    "startOffset": 80442,
+                    "startOffset": 80431,
                     "endLine": 1051,
                     "endColumn": 12,
-                    "endOffset": 80881
+                    "endOffset": 80870
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5726,10 +5726,10 @@
                 "to": {
                     "startLine": 1052,
                     "startColumn": 4,
-                    "startOffset": 80886,
+                    "startOffset": 80875,
                     "endLine": 1053,
                     "endColumn": 12,
-                    "endOffset": 81005
+                    "endOffset": 80994
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5747,10 +5747,10 @@
                 "to": {
                     "startLine": 1054,
                     "startColumn": 4,
-                    "startOffset": 81010,
+                    "startOffset": 80999,
                     "endLine": 1057,
                     "endColumn": 12,
-                    "endOffset": 81290
+                    "endOffset": 81279
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5768,10 +5768,10 @@
                 "to": {
                     "startLine": 1058,
                     "startColumn": 4,
-                    "startOffset": 81295,
+                    "startOffset": 81284,
                     "endLine": 1069,
                     "endColumn": 12,
-                    "endOffset": 82177
+                    "endOffset": 82166
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5789,10 +5789,10 @@
                 "to": {
                     "startLine": 1070,
                     "startColumn": 4,
-                    "startOffset": 82182,
+                    "startOffset": 82171,
                     "endLine": 1075,
                     "endColumn": 12,
-                    "endOffset": 82471
+                    "endOffset": 82460
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5810,10 +5810,10 @@
                 "to": {
                     "startLine": 1076,
                     "startColumn": 4,
-                    "startOffset": 82476,
+                    "startOffset": 82465,
                     "endLine": 1080,
                     "endColumn": 12,
-                    "endOffset": 82801
+                    "endOffset": 82790
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5831,10 +5831,10 @@
                 "to": {
                     "startLine": 1081,
                     "startColumn": 4,
-                    "startOffset": 82806,
+                    "startOffset": 82795,
                     "endLine": 1095,
                     "endColumn": 12,
-                    "endOffset": 83721
+                    "endOffset": 83710
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5852,10 +5852,10 @@
                 "to": {
                     "startLine": 1096,
                     "startColumn": 4,
-                    "startOffset": 83726,
+                    "startOffset": 83715,
                     "endLine": 1098,
                     "endColumn": 12,
-                    "endOffset": 83893
+                    "endOffset": 83882
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5873,10 +5873,10 @@
                 "to": {
                     "startLine": 1099,
                     "startColumn": 4,
-                    "startOffset": 83898,
+                    "startOffset": 83887,
                     "endLine": 1103,
                     "endColumn": 12,
-                    "endOffset": 84229
+                    "endOffset": 84218
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5894,10 +5894,10 @@
                 "to": {
                     "startLine": 1104,
                     "startColumn": 4,
-                    "startOffset": 84234,
+                    "startOffset": 84223,
                     "endLine": 1113,
                     "endColumn": 12,
-                    "endOffset": 84895
+                    "endOffset": 84884
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5915,10 +5915,10 @@
                 "to": {
                     "startLine": 1114,
                     "startColumn": 4,
-                    "startOffset": 84900,
+                    "startOffset": 84889,
                     "endLine": 1118,
                     "endColumn": 12,
-                    "endOffset": 85180
+                    "endOffset": 85169
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5936,10 +5936,10 @@
                 "to": {
                     "startLine": 1119,
                     "startColumn": 4,
-                    "startOffset": 85185,
+                    "startOffset": 85174,
                     "endLine": 1156,
                     "endColumn": 12,
-                    "endOffset": 88069
+                    "endOffset": 88058
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5957,10 +5957,10 @@
                 "to": {
                     "startLine": 1157,
                     "startColumn": 4,
-                    "startOffset": 88074,
+                    "startOffset": 88063,
                     "endLine": 1195,
                     "endColumn": 12,
-                    "endOffset": 91099
+                    "endOffset": 91088
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5978,10 +5978,10 @@
                 "to": {
                     "startLine": 1196,
                     "startColumn": 4,
-                    "startOffset": 91104,
+                    "startOffset": 91093,
                     "endLine": 1205,
                     "endColumn": 12,
-                    "endOffset": 91739
+                    "endOffset": 91728
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -5999,10 +5999,10 @@
                 "to": {
                     "startLine": 1206,
                     "startColumn": 4,
-                    "startOffset": 91744,
+                    "startOffset": 91733,
                     "endLine": 1214,
                     "endColumn": 12,
-                    "endOffset": 92363
+                    "endOffset": 92352
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6020,10 +6020,10 @@
                 "to": {
                     "startLine": 1215,
                     "startColumn": 4,
-                    "startOffset": 92368,
+                    "startOffset": 92357,
                     "endLine": 1216,
                     "endColumn": 12,
-                    "endOffset": 92476
+                    "endOffset": 92465
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6041,10 +6041,10 @@
                 "to": {
                     "startLine": 1217,
                     "startColumn": 4,
-                    "startOffset": 92481,
+                    "startOffset": 92470,
                     "endLine": 1220,
                     "endColumn": 12,
-                    "endOffset": 92705
+                    "endOffset": 92694
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6062,10 +6062,10 @@
                 "to": {
                     "startLine": 1221,
                     "startColumn": 4,
-                    "startOffset": 92710,
+                    "startOffset": 92699,
                     "endLine": 1224,
                     "endColumn": 12,
-                    "endOffset": 93043
+                    "endOffset": 93032
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6083,10 +6083,10 @@
                 "to": {
                     "startLine": 1225,
                     "startColumn": 4,
-                    "startOffset": 93048,
+                    "startOffset": 93037,
                     "endLine": 1227,
                     "endColumn": 12,
-                    "endOffset": 93203
+                    "endOffset": 93192
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6104,10 +6104,10 @@
                 "to": {
                     "startLine": 1228,
                     "startColumn": 4,
-                    "startOffset": 93208,
+                    "startOffset": 93197,
                     "endLine": 1230,
                     "endColumn": 12,
-                    "endOffset": 93355
+                    "endOffset": 93344
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6125,10 +6125,10 @@
                 "to": {
                     "startLine": 1231,
                     "startColumn": 4,
-                    "startOffset": 93360,
+                    "startOffset": 93349,
                     "endLine": 1233,
                     "endColumn": 12,
-                    "endOffset": 93526
+                    "endOffset": 93515
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6146,10 +6146,10 @@
                 "to": {
                     "startLine": 1234,
                     "startColumn": 4,
-                    "startOffset": 93531,
+                    "startOffset": 93520,
                     "endLine": 1236,
                     "endColumn": 12,
-                    "endOffset": 93693
+                    "endOffset": 93682
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6167,10 +6167,10 @@
                 "to": {
                     "startLine": 1237,
                     "startColumn": 4,
-                    "startOffset": 93698,
+                    "startOffset": 93687,
                     "endLine": 1240,
                     "endColumn": 12,
-                    "endOffset": 93936
+                    "endOffset": 93925
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6188,10 +6188,10 @@
                 "to": {
                     "startLine": 1241,
                     "startColumn": 4,
-                    "startOffset": 93941,
+                    "startOffset": 93930,
                     "endLine": 1243,
                     "endColumn": 12,
-                    "endOffset": 94106
+                    "endOffset": 94095
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6209,10 +6209,10 @@
                 "to": {
                     "startLine": 1244,
                     "startColumn": 4,
-                    "startOffset": 94111,
+                    "startOffset": 94100,
                     "endLine": 1246,
                     "endColumn": 12,
-                    "endOffset": 94279
+                    "endOffset": 94268
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6230,10 +6230,10 @@
                 "to": {
                     "startLine": 1247,
                     "startColumn": 4,
-                    "startOffset": 94284,
+                    "startOffset": 94273,
                     "endLine": 1249,
                     "endColumn": 12,
-                    "endOffset": 94450
+                    "endOffset": 94439
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6251,10 +6251,10 @@
                 "to": {
                     "startLine": 1250,
                     "startColumn": 4,
-                    "startOffset": 94455,
+                    "startOffset": 94444,
                     "endLine": 1253,
                     "endColumn": 12,
-                    "endOffset": 94724
+                    "endOffset": 94713
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6272,10 +6272,10 @@
                 "to": {
                     "startLine": 1254,
                     "startColumn": 4,
-                    "startOffset": 94729,
+                    "startOffset": 94718,
                     "endLine": 1256,
                     "endColumn": 12,
-                    "endOffset": 94923
+                    "endOffset": 94912
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6293,10 +6293,10 @@
                 "to": {
                     "startLine": 1257,
                     "startColumn": 4,
-                    "startOffset": 94928,
+                    "startOffset": 94917,
                     "endLine": 1259,
                     "endColumn": 12,
-                    "endOffset": 95170
+                    "endOffset": 95159
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6314,9 +6314,9 @@
                 "to": {
                     "startLine": 1260,
                     "startColumn": 4,
-                    "startOffset": 95175,
+                    "startOffset": 95164,
                     "endColumn": 83,
-                    "endOffset": 95254
+                    "endOffset": 95243
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6333,9 +6333,9 @@
                 "to": {
                     "startLine": 1261,
                     "startColumn": 4,
-                    "startOffset": 95259,
+                    "startOffset": 95248,
                     "endColumn": 95,
-                    "endOffset": 95350
+                    "endOffset": 95339
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6352,9 +6352,9 @@
                 "to": {
                     "startLine": 1262,
                     "startColumn": 4,
-                    "startOffset": 95355,
+                    "startOffset": 95344,
                     "endColumn": 95,
-                    "endOffset": 95446
+                    "endOffset": 95435
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6371,9 +6371,9 @@
                 "to": {
                     "startLine": 1263,
                     "startColumn": 4,
-                    "startOffset": 95451,
+                    "startOffset": 95440,
                     "endColumn": 97,
-                    "endOffset": 95544
+                    "endOffset": 95533
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6390,9 +6390,9 @@
                 "to": {
                     "startLine": 1264,
                     "startColumn": 4,
-                    "startOffset": 95549,
+                    "startOffset": 95538,
                     "endColumn": 99,
-                    "endOffset": 95644
+                    "endOffset": 95633
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6409,9 +6409,9 @@
                 "to": {
                     "startLine": 1265,
                     "startColumn": 4,
-                    "startOffset": 95649,
+                    "startOffset": 95638,
                     "endColumn": 101,
-                    "endOffset": 95746
+                    "endOffset": 95735
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6428,9 +6428,9 @@
                 "to": {
                     "startLine": 1266,
                     "startColumn": 4,
-                    "startOffset": 95751,
+                    "startOffset": 95740,
                     "endColumn": 101,
-                    "endOffset": 95848
+                    "endOffset": 95837
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6447,9 +6447,9 @@
                 "to": {
                     "startLine": 1267,
                     "startColumn": 4,
-                    "startOffset": 95853,
+                    "startOffset": 95842,
                     "endColumn": 101,
-                    "endOffset": 95950
+                    "endOffset": 95939
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6466,9 +6466,9 @@
                 "to": {
                     "startLine": 1268,
                     "startColumn": 4,
-                    "startOffset": 95955,
+                    "startOffset": 95944,
                     "endColumn": 101,
-                    "endOffset": 96052
+                    "endOffset": 96041
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6485,9 +6485,9 @@
                 "to": {
                     "startLine": 1269,
                     "startColumn": 4,
-                    "startOffset": 96057,
+                    "startOffset": 96046,
                     "endColumn": 101,
-                    "endOffset": 96154
+                    "endOffset": 96143
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6504,9 +6504,9 @@
                 "to": {
                     "startLine": 1270,
                     "startColumn": 4,
-                    "startOffset": 96159,
+                    "startOffset": 96148,
                     "endColumn": 99,
-                    "endOffset": 96254
+                    "endOffset": 96243
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6523,9 +6523,9 @@
                 "to": {
                     "startLine": 1271,
                     "startColumn": 4,
-                    "startOffset": 96259,
+                    "startOffset": 96248,
                     "endColumn": 95,
-                    "endOffset": 96350
+                    "endOffset": 96339
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6542,9 +6542,9 @@
                 "to": {
                     "startLine": 1272,
                     "startColumn": 4,
-                    "startOffset": 96355,
+                    "startOffset": 96344,
                     "endColumn": 111,
-                    "endOffset": 96462
+                    "endOffset": 96451
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6561,9 +6561,9 @@
                 "to": {
                     "startLine": 1273,
                     "startColumn": 4,
-                    "startOffset": 96467,
+                    "startOffset": 96456,
                     "endColumn": 128,
-                    "endOffset": 96591
+                    "endOffset": 96580
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6580,9 +6580,9 @@
                 "to": {
                     "startLine": 1274,
                     "startColumn": 4,
-                    "startOffset": 96596,
+                    "startOffset": 96585,
                     "endColumn": 122,
-                    "endOffset": 96714
+                    "endOffset": 96703
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6599,10 +6599,10 @@
                 "to": {
                     "startLine": 1275,
                     "startColumn": 4,
-                    "startOffset": 96719,
+                    "startOffset": 96708,
                     "endLine": 1276,
                     "endColumn": 12,
-                    "endOffset": 96868
+                    "endOffset": 96857
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6620,10 +6620,10 @@
                 "to": {
                     "startLine": 1277,
                     "startColumn": 4,
-                    "startOffset": 96873,
+                    "startOffset": 96862,
                     "endLine": 1278,
                     "endColumn": 12,
-                    "endOffset": 97022
+                    "endOffset": 97011
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6641,9 +6641,9 @@
                 "to": {
                     "startLine": 1279,
                     "startColumn": 4,
-                    "startOffset": 97027,
+                    "startOffset": 97016,
                     "endColumn": 97,
-                    "endOffset": 97120
+                    "endOffset": 97109
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6660,9 +6660,9 @@
                 "to": {
                     "startLine": 1280,
                     "startColumn": 4,
-                    "startOffset": 97125,
+                    "startOffset": 97114,
                     "endColumn": 113,
-                    "endOffset": 97234
+                    "endOffset": 97223
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6679,9 +6679,9 @@
                 "to": {
                     "startLine": 1281,
                     "startColumn": 4,
-                    "startOffset": 97239,
+                    "startOffset": 97228,
                     "endColumn": 93,
-                    "endOffset": 97328
+                    "endOffset": 97317
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6698,10 +6698,10 @@
                 "to": {
                     "startLine": 1282,
                     "startColumn": 4,
-                    "startOffset": 97333,
+                    "startOffset": 97322,
                     "endLine": 1283,
                     "endColumn": 12,
-                    "endOffset": 97468
+                    "endOffset": 97457
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6719,10 +6719,10 @@
                 "to": {
                     "startLine": 1284,
                     "startColumn": 4,
-                    "startOffset": 97473,
+                    "startOffset": 97462,
                     "endLine": 1285,
                     "endColumn": 12,
-                    "endOffset": 97602
+                    "endOffset": 97591
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6740,9 +6740,9 @@
                 "to": {
                     "startLine": 1286,
                     "startColumn": 4,
-                    "startOffset": 97607,
+                    "startOffset": 97596,
                     "endColumn": 95,
-                    "endOffset": 97698
+                    "endOffset": 97687
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6759,9 +6759,9 @@
                 "to": {
                     "startLine": 1287,
                     "startColumn": 4,
-                    "startOffset": 97703,
+                    "startOffset": 97692,
                     "endColumn": 111,
-                    "endOffset": 97810
+                    "endOffset": 97799
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6778,9 +6778,9 @@
                 "to": {
                     "startLine": 1288,
                     "startColumn": 4,
-                    "startOffset": 97815,
+                    "startOffset": 97804,
                     "endColumn": 99,
-                    "endOffset": 97910
+                    "endOffset": 97899
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6797,9 +6797,9 @@
                 "to": {
                     "startLine": 1289,
                     "startColumn": 4,
-                    "startOffset": 97915,
+                    "startOffset": 97904,
                     "endColumn": 115,
-                    "endOffset": 98026
+                    "endOffset": 98015
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6816,9 +6816,9 @@
                 "to": {
                     "startLine": 1290,
                     "startColumn": 4,
-                    "startOffset": 98031,
+                    "startOffset": 98020,
                     "endColumn": 95,
-                    "endOffset": 98122
+                    "endOffset": 98111
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6835,9 +6835,9 @@
                 "to": {
                     "startLine": 1291,
                     "startColumn": 4,
-                    "startOffset": 98127,
+                    "startOffset": 98116,
                     "endColumn": 111,
-                    "endOffset": 98234
+                    "endOffset": 98223
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6854,10 +6854,10 @@
                 "to": {
                     "startLine": 1292,
                     "startColumn": 4,
-                    "startOffset": 98239,
+                    "startOffset": 98228,
                     "endLine": 1293,
                     "endColumn": 12,
-                    "endOffset": 98374
+                    "endOffset": 98363
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6875,10 +6875,10 @@
                 "to": {
                     "startLine": 1294,
                     "startColumn": 4,
-                    "startOffset": 98379,
+                    "startOffset": 98368,
                     "endLine": 1295,
                     "endColumn": 12,
-                    "endOffset": 98522
+                    "endOffset": 98511
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6896,10 +6896,10 @@
                 "to": {
                     "startLine": 1296,
                     "startColumn": 4,
-                    "startOffset": 98527,
+                    "startOffset": 98516,
                     "endLine": 1297,
                     "endColumn": 12,
-                    "endOffset": 98686
+                    "endOffset": 98675
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6917,10 +6917,10 @@
                 "to": {
                     "startLine": 1298,
                     "startColumn": 4,
-                    "startOffset": 98691,
+                    "startOffset": 98680,
                     "endLine": 1299,
                     "endColumn": 12,
-                    "endOffset": 98828
+                    "endOffset": 98817
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6938,10 +6938,10 @@
                 "to": {
                     "startLine": 1300,
                     "startColumn": 4,
-                    "startOffset": 98833,
+                    "startOffset": 98822,
                     "endLine": 1301,
                     "endColumn": 12,
-                    "endOffset": 98986
+                    "endOffset": 98975
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6959,10 +6959,10 @@
                 "to": {
                     "startLine": 1302,
                     "startColumn": 4,
-                    "startOffset": 98991,
+                    "startOffset": 98980,
                     "endLine": 1303,
                     "endColumn": 12,
-                    "endOffset": 99136
+                    "endOffset": 99125
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6980,9 +6980,9 @@
                 "to": {
                     "startLine": 1304,
                     "startColumn": 4,
-                    "startOffset": 99141,
+                    "startOffset": 99130,
                     "endColumn": 140,
-                    "endOffset": 99277
+                    "endOffset": 99266
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -6999,10 +6999,10 @@
                 "to": {
                     "startLine": 1305,
                     "startColumn": 4,
-                    "startOffset": 99282,
+                    "startOffset": 99271,
                     "endLine": 1306,
                     "endColumn": 12,
-                    "endOffset": 99421
+                    "endOffset": 99410
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7020,9 +7020,9 @@
                 "to": {
                     "startLine": 1307,
                     "startColumn": 4,
-                    "startOffset": 99426,
+                    "startOffset": 99415,
                     "endColumn": 134,
-                    "endOffset": 99556
+                    "endOffset": 99545
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7039,10 +7039,10 @@
                 "to": {
                     "startLine": 1308,
                     "startColumn": 4,
-                    "startOffset": 99561,
+                    "startOffset": 99550,
                     "endLine": 1309,
                     "endColumn": 12,
-                    "endOffset": 99692
+                    "endOffset": 99681
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7060,10 +7060,10 @@
                 "to": {
                     "startLine": 1310,
                     "startColumn": 4,
-                    "startOffset": 99697,
+                    "startOffset": 99686,
                     "endLine": 1311,
                     "endColumn": 12,
-                    "endOffset": 99834
+                    "endOffset": 99823
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7081,10 +7081,10 @@
                 "to": {
                     "startLine": 1312,
                     "startColumn": 4,
-                    "startOffset": 99839,
+                    "startOffset": 99828,
                     "endLine": 1313,
                     "endColumn": 12,
-                    "endOffset": 99976
+                    "endOffset": 99965
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7102,9 +7102,9 @@
                 "to": {
                     "startLine": 1314,
                     "startColumn": 4,
-                    "startOffset": 99981,
+                    "startOffset": 99970,
                     "endColumn": 111,
-                    "endOffset": 100088
+                    "endOffset": 100077
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7121,9 +7121,9 @@
                 "to": {
                     "startLine": 1315,
                     "startColumn": 4,
-                    "startOffset": 100093,
+                    "startOffset": 100082,
                     "endColumn": 139,
-                    "endOffset": 100228
+                    "endOffset": 100217
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7140,9 +7140,9 @@
                 "to": {
                     "startLine": 1316,
                     "startColumn": 4,
-                    "startOffset": 100233,
+                    "startOffset": 100222,
                     "endColumn": 67,
-                    "endOffset": 100296
+                    "endOffset": 100285
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7159,9 +7159,9 @@
                 "to": {
                     "startLine": 1317,
                     "startColumn": 4,
-                    "startOffset": 100301,
+                    "startOffset": 100290,
                     "endColumn": 72,
-                    "endOffset": 100369
+                    "endOffset": 100358
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7178,9 +7178,9 @@
                 "to": {
                     "startLine": 1318,
                     "startColumn": 4,
-                    "startOffset": 100374,
+                    "startOffset": 100363,
                     "endColumn": 73,
-                    "endOffset": 100443
+                    "endOffset": 100432
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7197,9 +7197,9 @@
                 "to": {
                     "startLine": 1319,
                     "startColumn": 4,
-                    "startOffset": 100448,
+                    "startOffset": 100437,
                     "endColumn": 72,
-                    "endOffset": 100516
+                    "endOffset": 100505
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7216,9 +7216,9 @@
                 "to": {
                     "startLine": 1320,
                     "startColumn": 4,
-                    "startOffset": 100521,
+                    "startOffset": 100510,
                     "endColumn": 73,
-                    "endOffset": 100590
+                    "endOffset": 100579
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7235,10 +7235,10 @@
                 "to": {
                     "startLine": 1321,
                     "startColumn": 4,
-                    "startOffset": 100595,
+                    "startOffset": 100584,
                     "endLine": 1322,
                     "endColumn": 12,
-                    "endOffset": 100736
+                    "endOffset": 100725
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7256,10 +7256,10 @@
                 "to": {
                     "startLine": 1323,
                     "startColumn": 4,
-                    "startOffset": 100741,
+                    "startOffset": 100730,
                     "endLine": 1324,
                     "endColumn": 12,
-                    "endOffset": 100880
+                    "endOffset": 100869
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7277,10 +7277,10 @@
                 "to": {
                     "startLine": 1325,
                     "startColumn": 4,
-                    "startOffset": 100885,
+                    "startOffset": 100874,
                     "endLine": 1326,
                     "endColumn": 12,
-                    "endOffset": 101018
+                    "endOffset": 101007
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7298,9 +7298,9 @@
                 "to": {
                     "startLine": 1327,
                     "startColumn": 4,
-                    "startOffset": 101023,
+                    "startOffset": 101012,
                     "endColumn": 65,
-                    "endOffset": 101084
+                    "endOffset": 101073
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7317,9 +7317,9 @@
                 "to": {
                     "startLine": 1328,
                     "startColumn": 4,
-                    "startOffset": 101089,
+                    "startOffset": 101078,
                     "endColumn": 89,
-                    "endOffset": 101174
+                    "endOffset": 101163
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7336,9 +7336,9 @@
                 "to": {
                     "startLine": 1329,
                     "startColumn": 4,
-                    "startOffset": 101179,
+                    "startOffset": 101168,
                     "endColumn": 79,
-                    "endOffset": 101254
+                    "endOffset": 101243
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7355,9 +7355,9 @@
                 "to": {
                     "startLine": 1330,
                     "startColumn": 4,
-                    "startOffset": 101259,
+                    "startOffset": 101248,
                     "endColumn": 91,
-                    "endOffset": 101346
+                    "endOffset": 101335
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7374,9 +7374,9 @@
                 "to": {
                     "startLine": 1331,
                     "startColumn": 4,
-                    "startOffset": 101351,
+                    "startOffset": 101340,
                     "endColumn": 97,
-                    "endOffset": 101444
+                    "endOffset": 101433
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7393,10 +7393,10 @@
                 "to": {
                     "startLine": 1332,
                     "startColumn": 4,
-                    "startOffset": 101449,
+                    "startOffset": 101438,
                     "endLine": 1333,
                     "endColumn": 12,
-                    "endOffset": 101554
+                    "endOffset": 101543
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7414,9 +7414,9 @@
                 "to": {
                     "startLine": 1334,
                     "startColumn": 4,
-                    "startOffset": 101559,
+                    "startOffset": 101548,
                     "endColumn": 77,
-                    "endOffset": 101632
+                    "endOffset": 101621
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7433,9 +7433,9 @@
                 "to": {
                     "startLine": 1335,
                     "startColumn": 4,
-                    "startOffset": 101637,
+                    "startOffset": 101626,
                     "endColumn": 105,
-                    "endOffset": 101738
+                    "endOffset": 101727
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7452,9 +7452,9 @@
                 "to": {
                     "startLine": 1336,
                     "startColumn": 4,
-                    "startOffset": 101743,
+                    "startOffset": 101732,
                     "endColumn": 91,
-                    "endOffset": 101830
+                    "endOffset": 101819
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7471,9 +7471,9 @@
                 "to": {
                     "startLine": 1337,
                     "startColumn": 4,
-                    "startOffset": 101835,
+                    "startOffset": 101824,
                     "endColumn": 103,
-                    "endOffset": 101934
+                    "endOffset": 101923
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7490,9 +7490,9 @@
                 "to": {
                     "startLine": 1338,
                     "startColumn": 4,
-                    "startOffset": 101939,
+                    "startOffset": 101928,
                     "endColumn": 109,
-                    "endOffset": 102044
+                    "endOffset": 102033
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7509,10 +7509,10 @@
                 "to": {
                     "startLine": 1339,
                     "startColumn": 4,
-                    "startOffset": 102049,
+                    "startOffset": 102038,
                     "endLine": 1340,
                     "endColumn": 12,
-                    "endOffset": 102166
+                    "endOffset": 102155
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7530,10 +7530,10 @@
                 "to": {
                     "startLine": 1341,
                     "startColumn": 4,
-                    "startOffset": 102171,
+                    "startOffset": 102160,
                     "endLine": 1344,
                     "endColumn": 12,
-                    "endOffset": 102329
+                    "endOffset": 102318
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7551,10 +7551,10 @@
                 "to": {
                     "startLine": 1345,
                     "startColumn": 4,
-                    "startOffset": 102334,
+                    "startOffset": 102323,
                     "endLine": 1348,
                     "endColumn": 12,
-                    "endOffset": 102486
+                    "endOffset": 102475
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7572,9 +7572,9 @@
                 "to": {
                     "startLine": 1349,
                     "startColumn": 4,
-                    "startOffset": 102491,
+                    "startOffset": 102480,
                     "endColumn": 79,
-                    "endOffset": 102566
+                    "endOffset": 102555
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7591,9 +7591,9 @@
                 "to": {
                     "startLine": 1350,
                     "startColumn": 4,
-                    "startOffset": 102571,
+                    "startOffset": 102560,
                     "endColumn": 99,
-                    "endOffset": 102666
+                    "endOffset": 102655
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7610,9 +7610,9 @@
                 "to": {
                     "startLine": 1351,
                     "startColumn": 4,
-                    "startOffset": 102671,
+                    "startOffset": 102660,
                     "endColumn": 89,
-                    "endOffset": 102756
+                    "endOffset": 102745
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7629,9 +7629,9 @@
                 "to": {
                     "startLine": 1352,
                     "startColumn": 4,
-                    "startOffset": 102761,
+                    "startOffset": 102750,
                     "endColumn": 109,
-                    "endOffset": 102866
+                    "endOffset": 102855
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7648,9 +7648,9 @@
                 "to": {
                     "startLine": 1353,
                     "startColumn": 4,
-                    "startOffset": 102871,
+                    "startOffset": 102860,
                     "endColumn": 91,
-                    "endOffset": 102958
+                    "endOffset": 102947
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7667,10 +7667,10 @@
                 "to": {
                     "startLine": 1354,
                     "startColumn": 4,
-                    "startOffset": 102963,
+                    "startOffset": 102952,
                     "endLine": 1355,
                     "endColumn": 12,
-                    "endOffset": 103058
+                    "endOffset": 103047
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7688,10 +7688,10 @@
                 "to": {
                     "startLine": 1356,
                     "startColumn": 4,
-                    "startOffset": 103063,
+                    "startOffset": 103052,
                     "endLine": 1357,
                     "endColumn": 12,
-                    "endOffset": 103170
+                    "endOffset": 103159
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7709,10 +7709,10 @@
                 "to": {
                     "startLine": 1358,
                     "startColumn": 4,
-                    "startOffset": 103175,
+                    "startOffset": 103164,
                     "endLine": 1359,
                     "endColumn": 12,
-                    "endOffset": 103284
+                    "endOffset": 103273
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7730,10 +7730,10 @@
                 "to": {
                     "startLine": 1360,
                     "startColumn": 4,
-                    "startOffset": 103289,
+                    "startOffset": 103278,
                     "endLine": 1361,
                     "endColumn": 12,
-                    "endOffset": 103400
+                    "endOffset": 103389
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7751,10 +7751,10 @@
                 "to": {
                     "startLine": 1362,
                     "startColumn": 4,
-                    "startOffset": 103405,
+                    "startOffset": 103394,
                     "endLine": 1363,
                     "endColumn": 12,
-                    "endOffset": 103516
+                    "endOffset": 103505
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7772,9 +7772,9 @@
                 "to": {
                     "startLine": 1364,
                     "startColumn": 4,
-                    "startOffset": 103521,
+                    "startOffset": 103510,
                     "endColumn": 93,
-                    "endOffset": 103610
+                    "endOffset": 103599
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7791,9 +7791,9 @@
                 "to": {
                     "startLine": 1365,
                     "startColumn": 4,
-                    "startOffset": 103615,
+                    "startOffset": 103604,
                     "endColumn": 113,
-                    "endOffset": 103724
+                    "endOffset": 103713
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7810,9 +7810,9 @@
                 "to": {
                     "startLine": 1366,
                     "startColumn": 4,
-                    "startOffset": 103729,
+                    "startOffset": 103718,
                     "endColumn": 117,
-                    "endOffset": 103842
+                    "endOffset": 103831
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7829,10 +7829,10 @@
                 "to": {
                     "startLine": 1367,
                     "startColumn": 4,
-                    "startOffset": 103847,
+                    "startOffset": 103836,
                     "endLine": 1368,
                     "endColumn": 12,
-                    "endOffset": 103944
+                    "endOffset": 103933
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7850,10 +7850,10 @@
                 "to": {
                     "startLine": 1369,
                     "startColumn": 4,
-                    "startOffset": 103949,
+                    "startOffset": 103938,
                     "endLine": 1370,
                     "endColumn": 12,
-                    "endOffset": 104064
+                    "endOffset": 104053
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7871,10 +7871,10 @@
                 "to": {
                     "startLine": 1371,
                     "startColumn": 4,
-                    "startOffset": 104069,
+                    "startOffset": 104058,
                     "endLine": 1372,
                     "endColumn": 12,
-                    "endOffset": 104186
+                    "endOffset": 104175
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7892,9 +7892,9 @@
                 "to": {
                     "startLine": 1373,
                     "startColumn": 4,
-                    "startOffset": 104191,
+                    "startOffset": 104180,
                     "endColumn": 81,
-                    "endOffset": 104268
+                    "endOffset": 104257
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7911,9 +7911,9 @@
                 "to": {
                     "startLine": 1374,
                     "startColumn": 4,
-                    "startOffset": 104273,
+                    "startOffset": 104262,
                     "endColumn": 103,
-                    "endOffset": 104372
+                    "endOffset": 104361
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7930,9 +7930,9 @@
                 "to": {
                     "startLine": 1375,
                     "startColumn": 4,
-                    "startOffset": 104377,
+                    "startOffset": 104366,
                     "endColumn": 119,
-                    "endOffset": 104492
+                    "endOffset": 104481
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7949,9 +7949,9 @@
                 "to": {
                     "startLine": 1376,
                     "startColumn": 4,
-                    "startOffset": 104497,
+                    "startOffset": 104486,
                     "endColumn": 125,
-                    "endOffset": 104618
+                    "endOffset": 104607
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7968,9 +7968,9 @@
                 "to": {
                     "startLine": 1377,
                     "startColumn": 4,
-                    "startOffset": 104623,
+                    "startOffset": 104612,
                     "endColumn": 93,
-                    "endOffset": 104712
+                    "endOffset": 104701
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -7987,9 +7987,9 @@
                 "to": {
                     "startLine": 1378,
                     "startColumn": 4,
-                    "startOffset": 104717,
+                    "startOffset": 104706,
                     "endColumn": 87,
-                    "endOffset": 104800
+                    "endOffset": 104789
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8006,9 +8006,9 @@
                 "to": {
                     "startLine": 1379,
                     "startColumn": 4,
-                    "startOffset": 104805,
+                    "startOffset": 104794,
                     "endColumn": 111,
-                    "endOffset": 104912
+                    "endOffset": 104901
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8025,9 +8025,9 @@
                 "to": {
                     "startLine": 1380,
                     "startColumn": 4,
-                    "startOffset": 104917,
+                    "startOffset": 104906,
                     "endColumn": 115,
-                    "endOffset": 105028
+                    "endOffset": 105017
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8044,9 +8044,9 @@
                 "to": {
                     "startLine": 1381,
                     "startColumn": 4,
-                    "startOffset": 105033,
+                    "startOffset": 105022,
                     "endColumn": 121,
-                    "endOffset": 105150
+                    "endOffset": 105139
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8063,9 +8063,9 @@
                 "to": {
                     "startLine": 1382,
                     "startColumn": 4,
-                    "startOffset": 105155,
+                    "startOffset": 105144,
                     "endColumn": 111,
-                    "endOffset": 105262
+                    "endOffset": 105251
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8082,10 +8082,10 @@
                 "to": {
                     "startLine": 1383,
                     "startColumn": 4,
-                    "startOffset": 105267,
+                    "startOffset": 105256,
                     "endLine": 1385,
                     "endColumn": 12,
-                    "endOffset": 105437
+                    "endOffset": 105426
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8103,9 +8103,9 @@
                 "to": {
                     "startLine": 1386,
                     "startColumn": 4,
-                    "startOffset": 105442,
+                    "startOffset": 105431,
                     "endColumn": 115,
-                    "endOffset": 105553
+                    "endOffset": 105542
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8122,10 +8122,10 @@
                 "to": {
                     "startLine": 1387,
                     "startColumn": 4,
-                    "startOffset": 105558,
+                    "startOffset": 105547,
                     "endLine": 1388,
                     "endColumn": 12,
-                    "endOffset": 105651
+                    "endOffset": 105640
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8143,10 +8143,10 @@
                 "to": {
                     "startLine": 1389,
                     "startColumn": 4,
-                    "startOffset": 105656,
+                    "startOffset": 105645,
                     "endLine": 1390,
                     "endColumn": 12,
-                    "endOffset": 105763
+                    "endOffset": 105752
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8164,10 +8164,10 @@
                 "to": {
                     "startLine": 1391,
                     "startColumn": 4,
-                    "startOffset": 105768,
+                    "startOffset": 105757,
                     "endLine": 1392,
                     "endColumn": 12,
-                    "endOffset": 105887
+                    "endOffset": 105876
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8185,9 +8185,9 @@
                 "to": {
                     "startLine": 1393,
                     "startColumn": 4,
-                    "startOffset": 105892,
+                    "startOffset": 105881,
                     "endColumn": 66,
-                    "endOffset": 105954
+                    "endOffset": 105943
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8204,10 +8204,10 @@
                 "to": {
                     "startLine": 1394,
                     "startColumn": 4,
-                    "startOffset": 105959,
+                    "startOffset": 105948,
                     "endLine": 1395,
                     "endColumn": 12,
-                    "endOffset": 106080
+                    "endOffset": 106069
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8225,9 +8225,9 @@
                 "to": {
                     "startLine": 1396,
                     "startColumn": 4,
-                    "startOffset": 106085,
+                    "startOffset": 106074,
                     "endColumn": 67,
-                    "endOffset": 106148
+                    "endOffset": 106137
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8244,10 +8244,10 @@
                 "to": {
                     "startLine": 1397,
                     "startColumn": 4,
-                    "startOffset": 106153,
+                    "startOffset": 106142,
                     "endLine": 1398,
                     "endColumn": 12,
-                    "endOffset": 106276
+                    "endOffset": 106265
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8265,10 +8265,10 @@
                 "to": {
                     "startLine": 1399,
                     "startColumn": 4,
-                    "startOffset": 106281,
+                    "startOffset": 106270,
                     "endLine": 1400,
                     "endColumn": 12,
-                    "endOffset": 106420
+                    "endOffset": 106409
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8286,10 +8286,10 @@
                 "to": {
                     "startLine": 1401,
                     "startColumn": 4,
-                    "startOffset": 106425,
+                    "startOffset": 106414,
                     "endLine": 1402,
                     "endColumn": 12,
-                    "endOffset": 106548
+                    "endOffset": 106537
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8307,9 +8307,9 @@
                 "to": {
                     "startLine": 1403,
                     "startColumn": 4,
-                    "startOffset": 106553,
+                    "startOffset": 106542,
                     "endColumn": 68,
-                    "endOffset": 106617
+                    "endOffset": 106606
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8326,9 +8326,9 @@
                 "to": {
                     "startLine": 1404,
                     "startColumn": 4,
-                    "startOffset": 106622,
+                    "startOffset": 106611,
                     "endColumn": 94,
-                    "endOffset": 106712
+                    "endOffset": 106701
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8345,9 +8345,9 @@
                 "to": {
                     "startLine": 1405,
                     "startColumn": 4,
-                    "startOffset": 106717,
+                    "startOffset": 106706,
                     "endColumn": 114,
-                    "endOffset": 106827
+                    "endOffset": 106816
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8364,9 +8364,9 @@
                 "to": {
                     "startLine": 1406,
                     "startColumn": 4,
-                    "startOffset": 106832,
+                    "startOffset": 106821,
                     "endColumn": 112,
-                    "endOffset": 106940
+                    "endOffset": 106929
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8383,9 +8383,9 @@
                 "to": {
                     "startLine": 1407,
                     "startColumn": 4,
-                    "startOffset": 106945,
+                    "startOffset": 106934,
                     "endColumn": 98,
-                    "endOffset": 107039
+                    "endOffset": 107028
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8402,9 +8402,9 @@
                 "to": {
                     "startLine": 1408,
                     "startColumn": 4,
-                    "startOffset": 107044,
+                    "startOffset": 107033,
                     "endColumn": 108,
-                    "endOffset": 107148
+                    "endOffset": 107137
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8421,9 +8421,9 @@
                 "to": {
                     "startLine": 1409,
                     "startColumn": 4,
-                    "startOffset": 107153,
+                    "startOffset": 107142,
                     "endColumn": 110,
-                    "endOffset": 107259
+                    "endOffset": 107248
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8440,9 +8440,9 @@
                 "to": {
                     "startLine": 1410,
                     "startColumn": 4,
-                    "startOffset": 107264,
+                    "startOffset": 107253,
                     "endColumn": 110,
-                    "endOffset": 107370
+                    "endOffset": 107359
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8459,9 +8459,9 @@
                 "to": {
                     "startLine": 1411,
                     "startColumn": 4,
-                    "startOffset": 107375,
+                    "startOffset": 107364,
                     "endColumn": 100,
-                    "endOffset": 107471
+                    "endOffset": 107460
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8478,9 +8478,9 @@
                 "to": {
                     "startLine": 1412,
                     "startColumn": 4,
-                    "startOffset": 107476,
+                    "startOffset": 107465,
                     "endColumn": 104,
-                    "endOffset": 107576
+                    "endOffset": 107565
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8497,10 +8497,10 @@
                 "to": {
                     "startLine": 1413,
                     "startColumn": 4,
-                    "startOffset": 107581,
+                    "startOffset": 107570,
                     "endLine": 1414,
                     "endColumn": 12,
-                    "endOffset": 107688
+                    "endOffset": 107677
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8518,10 +8518,10 @@
                 "to": {
                     "startLine": 1415,
                     "startColumn": 4,
-                    "startOffset": 107693,
+                    "startOffset": 107682,
                     "endLine": 1416,
                     "endColumn": 12,
-                    "endOffset": 107818
+                    "endOffset": 107807
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8539,9 +8539,9 @@
                 "to": {
                     "startLine": 1417,
                     "startColumn": 4,
-                    "startOffset": 107823,
+                    "startOffset": 107812,
                     "endColumn": 90,
-                    "endOffset": 107909
+                    "endOffset": 107898
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8558,9 +8558,9 @@
                 "to": {
                     "startLine": 1418,
                     "startColumn": 4,
-                    "startOffset": 107914,
+                    "startOffset": 107903,
                     "endColumn": 122,
-                    "endOffset": 108032
+                    "endOffset": 108021
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8577,10 +8577,10 @@
                 "to": {
                     "startLine": 1419,
                     "startColumn": 4,
-                    "startOffset": 108037,
+                    "startOffset": 108026,
                     "endLine": 1420,
                     "endColumn": 12,
-                    "endOffset": 108144
+                    "endOffset": 108133
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8598,9 +8598,9 @@
                 "to": {
                     "startLine": 1421,
                     "startColumn": 4,
-                    "startOffset": 108149,
+                    "startOffset": 108138,
                     "endColumn": 85,
-                    "endOffset": 108230
+                    "endOffset": 108219
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8617,9 +8617,9 @@
                 "to": {
                     "startLine": 1422,
                     "startColumn": 4,
-                    "startOffset": 108235,
+                    "startOffset": 108224,
                     "endColumn": 103,
-                    "endOffset": 108334
+                    "endOffset": 108323
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8636,10 +8636,10 @@
                 "to": {
                     "startLine": 1423,
                     "startColumn": 4,
-                    "startOffset": 108339,
+                    "startOffset": 108328,
                     "endLine": 1424,
                     "endColumn": 12,
-                    "endOffset": 108442
+                    "endOffset": 108431
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8657,10 +8657,10 @@
                 "to": {
                     "startLine": 1425,
                     "startColumn": 4,
-                    "startOffset": 108447,
+                    "startOffset": 108436,
                     "endLine": 1426,
                     "endColumn": 12,
-                    "endOffset": 108542
+                    "endOffset": 108531
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8678,10 +8678,10 @@
                 "to": {
                     "startLine": 1427,
                     "startColumn": 4,
-                    "startOffset": 108547,
+                    "startOffset": 108536,
                     "endLine": 1428,
                     "endColumn": 12,
-                    "endOffset": 108660
+                    "endOffset": 108649
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8699,10 +8699,10 @@
                 "to": {
                     "startLine": 1429,
                     "startColumn": 4,
-                    "startOffset": 108665,
+                    "startOffset": 108654,
                     "endLine": 1430,
                     "endColumn": 12,
-                    "endOffset": 108764
+                    "endOffset": 108753
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8720,10 +8720,10 @@
                 "to": {
                     "startLine": 1431,
                     "startColumn": 4,
-                    "startOffset": 108769,
+                    "startOffset": 108758,
                     "endLine": 1432,
                     "endColumn": 12,
-                    "endOffset": 108868
+                    "endOffset": 108857
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8741,10 +8741,10 @@
                 "to": {
                     "startLine": 1433,
                     "startColumn": 4,
-                    "startOffset": 108873,
+                    "startOffset": 108862,
                     "endLine": 1434,
                     "endColumn": 12,
-                    "endOffset": 108994
+                    "endOffset": 108983
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8762,9 +8762,9 @@
                 "to": {
                     "startLine": 1435,
                     "startColumn": 4,
-                    "startOffset": 108999,
+                    "startOffset": 108988,
                     "endColumn": 87,
-                    "endOffset": 109082
+                    "endOffset": 109071
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8781,9 +8781,9 @@
                 "to": {
                     "startLine": 1436,
                     "startColumn": 4,
-                    "startOffset": 109087,
+                    "startOffset": 109076,
                     "endColumn": 89,
-                    "endOffset": 109172
+                    "endOffset": 109161
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8800,9 +8800,9 @@
                 "to": {
                     "startLine": 1437,
                     "startColumn": 4,
-                    "startOffset": 109177,
+                    "startOffset": 109166,
                     "endColumn": 109,
-                    "endOffset": 109282
+                    "endOffset": 109271
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8819,9 +8819,9 @@
                 "to": {
                     "startLine": 1438,
                     "startColumn": 4,
-                    "startOffset": 109287,
+                    "startOffset": 109276,
                     "endColumn": 83,
-                    "endOffset": 109366
+                    "endOffset": 109355
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8838,9 +8838,9 @@
                 "to": {
                     "startLine": 1439,
                     "startColumn": 4,
-                    "startOffset": 109371,
+                    "startOffset": 109360,
                     "endColumn": 53,
-                    "endOffset": 109420
+                    "endOffset": 109409
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8857,9 +8857,9 @@
                 "to": {
                     "startLine": 1440,
                     "startColumn": 4,
-                    "startOffset": 109425,
+                    "startOffset": 109414,
                     "endColumn": 121,
-                    "endOffset": 109542
+                    "endOffset": 109531
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8876,9 +8876,9 @@
                 "to": {
                     "startLine": 1441,
                     "startColumn": 4,
-                    "startOffset": 109547,
+                    "startOffset": 109536,
                     "endColumn": 105,
-                    "endOffset": 109648
+                    "endOffset": 109637
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8895,9 +8895,9 @@
                 "to": {
                     "startLine": 1442,
                     "startColumn": 4,
-                    "startOffset": 109653,
+                    "startOffset": 109642,
                     "endColumn": 109,
-                    "endOffset": 109758
+                    "endOffset": 109747
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8914,9 +8914,9 @@
                 "to": {
                     "startLine": 1443,
                     "startColumn": 4,
-                    "startOffset": 109763,
+                    "startOffset": 109752,
                     "endColumn": 83,
-                    "endOffset": 109842
+                    "endOffset": 109831
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
@@ -8933,9 +8933,9 @@
                 "to": {
                     "startLine": 1444,
                     "startColumn": 4,
-                    "startOffset": 109847,
+                    "startOffset": 109836,
                     "endColumn": 125,
-                    "endOffset": 109968
+                    "endOffset": 109957
                 },
                 "from": {
                     "file": "/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml",
