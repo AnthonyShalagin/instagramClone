@@ -17,12 +17,15 @@ import android.view.MenuItem;
 
 import com.parse.FindCallback;
 import com.parse.GetCallback;
+import com.parse.LogInCallback;
 import com.parse.Parse;
 import com.parse.ParseAnalytics;
 import com.parse.ParseException;
 import com.parse.ParseObject;
 import com.parse.ParseQuery;
+import com.parse.ParseUser;
 import com.parse.SaveCallback;
+import com.parse.SignUpCallback;
 
 import java.util.List;
 
@@ -34,29 +37,48 @@ public class MainActivity extends AppCompatActivity {
      super.onCreate(savedInstanceState);
      setContentView(R.layout.activity_main);
 
+      /*
+      ParseUser user = new ParseUser();
+      user.setUsername("antonio");
+      user.setPassword("password");
 
-      ParseQuery<ParseObject> query = ParseQuery.getQuery("Score");
-      query.whereEqualTo("username","anthony");
-      query.setLimit(1);
-
-
-      query.findInBackground(new FindCallback<ParseObject>() {
+      user.signUpInBackground(new SignUpCallback() {
           @Override
-          public void done(List<ParseObject> objects, ParseException e) {
-
+          public void done(ParseException e) {
               if (e == null) {
-
-                  if (objects.size() > 0 ) {
-                      objects.get(0).put("score", -500);
-                      objects.get(0).saveInBackground();
-                  }
-
-
-
+                  Log.i("Sign Up", "SUCCESS!!");
               }
+              else {
+                  Log.i("Sign Up", "Fail!!");
 
+                  e.printStackTrace();
+              }
           }
       });
+
+        */
+
+
+//      ParseUser.logInInBackground("antonio", "password", new LogInCallback() {
+//          @Override
+//          public void done(ParseUser user, ParseException e) {
+//              if (user != null) {
+//                  Log.i("Sign In", "successful");
+//              } else {
+//                  Log.i("Sign In", "Could not sign in");
+//                  e.printStackTrace();
+//
+//              }
+//          }
+//      });
+
+      ParseUser.logOut();
+
+      if (ParseUser.getCurrentUser() != null) {
+          Log.i("currentUser","User logged in");
+      } else {
+          Log.i("currentUser", "Not logged in");
+      }
 
 
 
