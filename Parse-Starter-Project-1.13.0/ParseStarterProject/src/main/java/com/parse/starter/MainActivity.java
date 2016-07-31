@@ -9,7 +9,10 @@
 package com.parse.starter;
 
 import android.content.Intent;
+import android.graphics.Bitmap;
+import android.net.Uri;
 import android.os.Bundle;
+import android.provider.MediaStore;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
@@ -37,6 +40,7 @@ import com.parse.ParseUser;
 import com.parse.SaveCallback;
 import com.parse.SignUpCallback;
 
+import java.io.IOException;
 import java.util.List;
 
 
@@ -233,10 +237,40 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     //noinspection SimplifiableIfStatement
     if (id == R.id.share) {
-      return true;
+
+		Intent i = new Intent(Intent.ACTION_PICK, MediaStore.Images.Media.EXTERNAL_CONTENT_URI);
+		startActivityForResult(i, 1);
+
+      	return true;
     }
 
     return super.onOptionsItemSelected(item);
   }
+
+	@Override
+	protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+
+		super.onActivityResult(requestCode, resultCode, data); //Called whenever we go to an external activity and then come back to our app
+
+		if (requestCode == 1 && resultCode == RESULT_OK && data != null) {
+
+			Uri selectedImage = data.getData();
+
+			try {
+
+				Bitmap bitmapImage = MediaStore.Images.Media.getBitmap(this.getContentResolver(), selectedImage);
+
+				Log.i("AppInfo", "Image received");
+
+
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+
+
+		}
+
+	}
+
 
 }
