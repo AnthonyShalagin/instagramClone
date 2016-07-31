@@ -12,11 +12,15 @@ import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.view.KeyEvent;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.view.inputmethod.InputMethodManager;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageView;
+import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -35,14 +39,29 @@ import com.parse.SignUpCallback;
 import java.util.List;
 
 
-public class MainActivity extends AppCompatActivity implements View.OnClickListener{
+public class MainActivity extends AppCompatActivity implements View.OnClickListener, View.OnKeyListener{
 
     EditText usernameField;
     EditText passwordField;
 	TextView changeSignUpModeTextView;
 	Button signUpButton;
+	ImageView logo;
+	RelativeLayout relativeLayout;
 
 	Boolean signUpModeActive;
+
+
+	@Override
+	public boolean onKey(View view, int keyCode, KeyEvent keyEvent) {
+
+		if (keyCode == keyEvent.KEYCODE_ENTER && keyEvent.getAction() == KeyEvent.ACTION_DOWN) {	//Factor in only the down action of pressing enter
+			signUpOrLogin(view);
+		}
+
+		return false;
+
+
+	}
 
 	@Override
 	public void onClick(View view) {	//Called whenever an onClickListener is called
@@ -62,9 +81,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 			}
 		}
 
+		else if (view.getId() == R.id.logo || view.getId()== R.id.relativeLayout) {	//Disable keyboard if user clicks on logo/white screen
+			InputMethodManager imm = (InputMethodManager) getSystemService(INPUT_METHOD_SERVICE);
+			imm.hideSoftInputFromWindow(getCurrentFocus().getWindowToken(),0);
+		}
+
 	}
 
-    public void signUpOrLogin(View view) {
+    public void signUpOrLogin(View view) {		//Sign Up/Login Button Logic
 
 		if (signUpModeActive == true) {
 
@@ -108,14 +132,20 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 	  signUpModeActive = true;
 
-
-
 	  usernameField = (EditText) findViewById(R.id.username);
 	  passwordField = (EditText) findViewById(R.id.password);
 	  changeSignUpModeTextView = (TextView) findViewById(R.id.changeSignUpMode);
 	  signUpButton = (Button) findViewById(R.id.signUpButton);
+	  logo = (ImageView) findViewById(R.id.logo);
+	  relativeLayout = (RelativeLayout) findViewById(R.id.relativeLayout);
+
 
 	  changeSignUpModeTextView.setOnClickListener(this);
+	  logo.setOnClickListener(this);
+	  relativeLayout.setOnClickListener(this);
+
+	  usernameField.setOnKeyListener(this);
+	  passwordField.setOnKeyListener(this);
 
       /*
       ParseUser user = new ParseUser();
@@ -186,6 +216,5 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     return super.onOptionsItemSelected(item);
   }
-
 
 }

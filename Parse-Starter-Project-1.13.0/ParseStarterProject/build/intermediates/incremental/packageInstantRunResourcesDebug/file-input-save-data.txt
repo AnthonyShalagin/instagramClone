@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Jul 30 17:56:41 EDT 2016
+#Sat Jul 30 22:24:56 EDT 2016
 122.file=/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
 60.set=ANDROID_RESOURCE
 129.file=/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/resources-debug.ap_/res/layout/notification_template_lines.xml
