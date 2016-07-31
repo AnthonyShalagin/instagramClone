@@ -34,12 +34,14 @@ import com.parse.LogInCallback;
 import com.parse.Parse;
 import com.parse.ParseAnalytics;
 import com.parse.ParseException;
+import com.parse.ParseFile;
 import com.parse.ParseObject;
 import com.parse.ParseQuery;
 import com.parse.ParseUser;
 import com.parse.SaveCallback;
 import com.parse.SignUpCallback;
 
+import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.util.List;
 
@@ -261,6 +263,37 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 				Bitmap bitmapImage = MediaStore.Images.Media.getBitmap(this.getContentResolver(), selectedImage);
 
 				Log.i("AppInfo", "Image received");
+
+				//Using ByteArray to store the image
+				ByteArrayOutputStream stream = new ByteArrayOutputStream();
+				bitmapImage.compress(Bitmap.CompressFormat.PNG, 100, stream);
+				byte[] byteArray = stream.toByteArray();
+
+				ParseFile file = new ParseFile("image.png", byteArray);
+
+				ParseObject object = new ParseObject("images");
+				object.put("username", ParseUser.getCurrentUser().getUsername());
+				object.put("image", file);
+
+				object.saveInBackground(new SaveCallback() {
+					@Override
+					public void done(ParseException e) {
+
+						if (e == null) {
+							Toast.makeText(getApplication().getBaseContext(), "Your image has been posted", Toast.LENGTH_LONG).show();
+						}
+
+						else {
+							Toast.makeText(getApplication().getBaseContext(), "There was error. Please try again.", Toast.LENGTH_LONG).show();
+
+						}
+
+
+					}
+				});
+
+
+
 
 
 			} catch (IOException e) {

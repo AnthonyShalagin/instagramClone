@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Jul 31 18:24:55 EDT 2016
+#Sun Jul 31 18:52:15 EDT 2016
 122.file=/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png
 60.set=ANDROID_RESOURCE
 129.file=/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/resources-debug.ap_/res/anim/abc_fade_out.xml
