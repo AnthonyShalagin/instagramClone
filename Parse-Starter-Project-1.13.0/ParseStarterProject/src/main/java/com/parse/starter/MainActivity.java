@@ -8,6 +8,7 @@
  */
 package com.parse.starter;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.AppCompatActivity;
@@ -83,6 +84,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 		else if (view.getId() == R.id.logo || view.getId()== R.id.relativeLayout) {	//Disable keyboard if user clicks on logo/white screen
 			InputMethodManager imm = (InputMethodManager) getSystemService(INPUT_METHOD_SERVICE);
+			//imm.hideSoftInputFromWindow(getCurrentFocus().getWindowToken());
 			imm.hideSoftInputFromWindow(getCurrentFocus().getWindowToken(),0);
 		}
 
@@ -101,7 +103,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 				@Override
 				public void done(ParseException e) {
 					if (e == null) {
-						Log.i("AppInfo", "The sign up was sucessful");
+						Log.i("AppInfo", "The sign up was successful");
+						showUserList();
+
 					} else {
 						//Error message handling, get substring after java.util.*
 						Toast.makeText(getApplicationContext(), e.getMessage().substring(e.getMessage().indexOf(" ")), Toast.LENGTH_LONG).show();
@@ -116,6 +120,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 						public void done(ParseUser user, ParseException e) {
 							if (user != null) {
 								Log.i("AppInfo", "THE LOGIN WAS SUCCESSFUL");
+
+								showUserList();
+
+
 							} else {
 								Toast.makeText(getApplicationContext(), e.getMessage().substring(e.getMessage().indexOf(" ")), Toast.LENGTH_LONG).show();
 							}
@@ -125,10 +133,24 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
 
+	public void showUserList () {
+		Intent i = new Intent(getApplicationContext(), UserList.class);
+		startActivity(i);
+	}
+
   @Override
   protected void onCreate(Bundle savedInstanceState) {
      super.onCreate(savedInstanceState);
      setContentView(R.layout.activity_main);
+
+	  if (ParseUser.getCurrentUser() != null) {
+		  if (ParseUser.getCurrentUser() != null) {
+
+			  showUserList();
+
+		  }
+
+	  }
 
 	  signUpModeActive = true;
 
@@ -210,7 +232,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     int id = item.getItemId();
 
     //noinspection SimplifiableIfStatement
-    if (id == R.id.action_settings) {
+    if (id == R.id.share) {
       return true;
     }
 
