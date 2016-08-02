@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi,armeabi-v7a"
+    api-level="23"
+    density="xxxhdpi"
+    format="8"
+<<<<<<< HEAD:ParseStarterProject/build/intermediates/restart-dex/debug/build-info.xml
+    timestamp="12129768114544"
+    token="-3954062518663118886"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+=======
+    timestamp="97522038348385"
+    token="-3954062518663118886"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="427" />
+>>>>>>> ac68df57d40dc05b3113f84122001d733cbb533b:Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/restart-dex/debug/build-info.xml
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+<<<<<<< HEAD:ParseStarterProject/build/intermediates/restart-dex/debug/build-info.xml
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="12093024456446"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="12129768114544"
+        verifier="COLD_SWAP_REQUESTED" />
+    <build
+=======
+        duration="123" />
+    <task
+        name="verifier"
+        duration="21" />
+
+    <artifact
+        location="/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
+        type="MAIN" />
+
+    <build
+>>>>>>> ac68df57d40dc05b3113f84122001d733cbb533b:Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/restart-dex/debug/build-info.xml
+        timestamp="97522038348385"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
