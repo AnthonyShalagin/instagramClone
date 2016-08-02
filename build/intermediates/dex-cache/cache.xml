@@ -3,30 +3,30 @@
 
     <item
         is-multidex="true"
+        jar="/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.1_4ae39369327fb5e4ae47ef8ff8a175fbcaefbb36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/anthonyshalagin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
         jumboMode="true"
         optimize="false"
         revision="23.0.1"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/anthonyshalagin/Desktop/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_fa9e799e5a8011de43705a4e65e1155b92ceb784/classes.dex" />
+        <dex dex="/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_fa9e799e5a8011de43705a4e65e1155b92ceb784/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anthonyshalagin/Desktop/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
         jumboMode="true"
         optimize="false"
         revision="23.0.1"
-        sha1="348f7afa5b0aa7a98882ea5ff0cfc4605fa70918">
-        <dex dex="/Users/anthonyshalagin/Desktop/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ab7d2f18709adf87cb6b635404ba1df069973b37/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/anthonyshalagin/Desktop/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.1"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="/Users/anthonyshalagin/Desktop/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_d4bf4dcf37aabd7589b04755ca81cca84619eff1/classes.dex" />
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_53e487f22401717c7461c6980a5da8d105b3a850/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -35,43 +35,61 @@
         optimize="false"
         revision="23.0.1"
         sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
-        <dex dex="/Users/anthonyshalagin/Desktop/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_17be882d6fc9a9ea877229efffa93e3fcf9745f2/classes.dex" />
+        <dex dex="/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_17be882d6fc9a9ea877229efffa93e3fcf9745f2/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anthonyshalagin/Desktop/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jar="/Users/anthonyshalagin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
         jumboMode="true"
         optimize="false"
         revision="23.0.1"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="/Users/anthonyshalagin/Desktop/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.0_660a866f54c49cc52d1f13f606100c3e0b7717a1/classes.dex" />
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_0ca30e1357e300118c149c57d7c147b20b6bf287/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anthonyshalagin/Desktop/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="false"
         revision="23.0.1"
-        sha1="5e0a40f31f28ff261e56d37549503de6745e4b39">
-        <dex dex="/Users/anthonyshalagin/Desktop/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1786f5f4aeee187d124e246e396786d8a4d0092d/classes.dex" />
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_1fa1c2847f98e0b213836ac6c2e458bf1a931fcb/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anthonyshalagin/Desktop/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jar="/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="false"
         revision="23.0.1"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="/Users/anthonyshalagin/Desktop/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.0_a1327e5d472440a588449c9192bb82df614ed9ef/classes.dex" />
+        sha1="2aafdf4169ddf2b4feaf02066655731c4f267aae">
+        <dex dex="/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_968c65be7f17a37c77360e1c5c9854ffd53b5aac/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anthonyshalagin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jar="/Users/anthonyshalagin/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha4/constraint-layout-solver-1.0.0-alpha4.jar"
         jumboMode="true"
         optimize="false"
         revision="23.0.1"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="/Users/anthonyshalagin/Desktop/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_4c77c96759dfb40a14823bafd4cde0c48d6961c0/classes.dex" />
+        sha1="a882fef6a6b9e3efbb0b6b001895a5fc7c35b391">
+        <dex dex="/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha4_ace8525a32d230edd54f3262d33a0b3bb2da81a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha4/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="affe29a90a2a709bfd2b8d6411aa99c05a2be96f">
+        <dex dex="/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha4_9d62d5283c956680d06d8e94186a6ed926166e80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.1"
+        sha1="c2728069ca16ccc2673c16040aed56a8408c7bd3">
+        <dex dex="/Users/anthonyshalagin/instagramClone/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8e1cead51f5c02181acded65e604ebd3dba1715e/classes.dex" />
     </item>
 
 </items>
